@@ -1,0 +1,65 @@
+CHEM 111 General Chemistry I
+MA 111 Calculus I
+BIO 110 Cell Structure and Function*
+RHIT 100 Foundations for Rose-Hulman Success
+RH 131 Rhetoric &amp; Composition or HSSA Elective
+CHEM 113 General Chemistry II
+MA 112 Calculus II
+PH 111 Physics I
+RH 131 Rhetoric and Composition or HSSA Elective
+CHEM 115 General Chemistry III
+MA 113 Calculus III
+HSSA Elective
+PH 112 Physics II
+CHEM 251 Organic Chemistry I 
+CHEM 251L Organic Chemistry I Lab
+PH 113 Physics III
+MA 221 Matrix Algebra &amp; Differential Equations I
+Free Elective
+CHEM 200 Career Preparation (take in winter or spring)
+CHEM 252 Organic Chemistry II 
+CHEM 252L Organic Chemistry II Lab
+CHEM 291 Intro to Undergraduate Research
+MA 381 Introduction to Probability with Applications to Statistics
+Free Elective
+CHEM 200 Career Preparation (take in winter or spring)
+CHEM 253 Organic Chemistry III 
+CHEM 253L Organic Chemistry III Lab
+CHEM 225 Analytical Chemistry I
+RH 330 Technical and Professional Communication
+Free Elective
+CHEM 326 Bioanalytical Chemistry
+CHEM 361** Physical Chemistry I
+CHEM 330 Biochemistry I
+CHEM 391 Research Proposal (F,W or S)
+CHEM 395 Chemistry Seminar
+CHEM 490 Research
+CHEM 327 Advanced Analytical	
+CHEM 362** Physical Chemistry II
+CHEM 391 Research Proposal (F, W or S)
+CHEM 490 Research
+HSSA Elective
+Free Elective
+CHEM 363 Quantum Chemistry &amp; Molecular Spectroscopy
+CHEM 391 Research Proposal (F, W or S)
+CHEM 451 Organic Structure Determination
+HSSA Elective
+Free Elective
+CHEM 490 Research
+CHEM 441 Inorganic Chemistry I
+CHEM 490 Research
+CHEM 491 Research Thesis (F, W or S)
+CHEM 495 Chemistry Seminar
+CHEM 497 Research Presentation (F, W or S)
+Chemistry Elective
+CHEM 442 Inorganic Chemistry II
+CHEM 491 Research Thesis (F, W or S)
+CHEM 496 Chemistry Seminar
+CHEM 497 Research Presentation (F, W or S)
+HSSA Elective
+Chemistry Elective (400-level)##
+CHEM 491 Research Thesis (F, W or S)	
+CHEM 497 Research Presentation (F, W or S)
+HSSA Elective
+Free Elective
+Free Elective

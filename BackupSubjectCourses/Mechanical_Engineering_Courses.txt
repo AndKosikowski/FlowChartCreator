@@ -1,0 +1,84 @@
+ME 123 Computer Programming 4R-0L-4C F,W,S
+ME 193 Selected Topics in Design Hours as assigned. Maximum 4 credits per term. F,W,S
+ME 293 Selected Topics in Design Hours as assigned. Maximum 4 credits per term. F,W,S
+ME 301 Applications of Thermodynamics 4R-0L-4C F,W
+ME 302 Heat Transfer 4R-0L-4C S,F
+ME 305 Introduction to Aerospace Engineering 4R-0L-4C S
+ME 317 Design for Manufacturing 4R-0L-4C W
+ME 318 Material Processing in Manufacturing 4R-0L-4C 
+ME 321 Measurement Systems 3R-3L-4C W,S
+ME 323 Numerical Methods in Engineering 1R-3L-2C W,S
+ME 327 Numerical Methods of Engineering Analysis  3R-3L-4C  W,S
+ME 328 Materials Engineering 4R-0L-4C W
+ME 380  Creative Design 4R-0L-4C W
+ME 393 Selected Topics in Design As assigned. Maximum 4 credits per term. F,W,S
+ME 397 Special Topics in Mechanical Engineering 4R-0L-4C 
+ME 401 Foundations of Fluid Mechanics 3R-3L-4C 
+ME 402 Advanced Heat Transfer 4R-0L-4C 
+ME 403 Kinematics of Machinery 4R-0L-4C 
+ME 405 Theoretical Aerodynamics 4R-0L-4C W
+ME 406 Control Systems 3R-3L-4C F
+ME 407 Power Plants 4R-0L-4C S
+ME 408 Renewable Energy 4R-0L-4C 
+ME 409 Air Conditioning 4R-0L-4C S
+ME 410 Internal Combustion Engines 4R-0L-4C F
+ME 411 Propulsion Systems 4R-0L-4C S
+ME 412 Lean Manufacturing 4R-0L-4C 
+ME 414 Materials Selection in Mechanical Design 4R-0L-4C F
+ME 415 Corrosion &amp; Engineering Materials 4R-0L-4C 
+ME 416 Introduction to MEMS: Fabrication &amp; Applications 3R-3L-4C S
+ME 417 Advanced Materials Engineering 4R-0L-4C 
+ME 419 Advanced MEMS: Modeling &amp; Packaging 3R-3L-4C F
+ME 420 Consulting Engineering Seminar 2R-0L-2C S
+ME 421 Mechanical Engineering Laboratory 0R-6L-2C F,W
+ME 422 Finite Elements for Engineering Applications 4R-0L-4C W
+ME 423 Fatigue 4R-0L-4C S
+ME 424 Mechanics of Composites 4R-0L-4C 
+ME 425 Aerospace Engineering Laboratory 1R-3L-2C 
+ME 426 Turbomachinery 4R-0L-4C 
+ME 427 Introduction to Computational Fluid Dynamics 3R-3L-4C F
+ME 428 Materials Research and Instrumentation 4R-0L-4C 
+ME 430 Mechatronic Systems 3R-3L-4C F,W
+ME 435 Robotics Engineering 3R-3L-4C S
+ME 445 Robot Dynamics and Control 4R-0L-4C 
+ME 447 Visualizing Data 4R-0L-4C 
+ME 450 Combustion 4R-0L-4C 
+ME 461 Aircraft Design 4R-0L-4C F
+ME 462 Thermal Design 4R-0L-4C 
+ME 470 Capstone Design I 2R-3L-4C F,S
+ME 471 Capstone Design II 1R-4L-4C F,W
+ME 472 Capstone Design III 1R-4L-4C W,S
+ME 480 Machine Component Design 4R-0L-4C S,F
+ME 490 Directed Research As assigned. Maximum 4 credits per term. F,W,S
+ME 491 Directed Research As assigned. Maximum 4 credits per term. F,W,S
+ME 493 Selected Topics in Design Hours as assigned. Maximum 4 credits per term. F,W,S
+ME 497 Special Topics in Mechanical Engineering 4R-0L-4C  Arranged 
+ME 501 Advanced Thermodynamics 4R-0L-4C F
+ME 502 Topics in Heat Transfer 4R-0L-4C Arranged
+ME 503 Viscous Fluid Flow 4R-0L-4C 
+ME 505 Modeling &amp; Simulation of Dynamic Systems 4R-0L-4C 
+ME 506 Advanced Control Systems 4R-0L-4C 
+ME 507 Applied Nonlinear Control Systems 4R-0L-4C 
+ME 510 Gas Dynamics 4R-0L-4C F
+ME 511 Numerical Methods for Dynamic Systems Analysis 4R-0L-4C 
+ME 512 Light Weight Structures 4R-0L-4C S
+ME 513 Environmental Noise 4R-0L-4C F
+ME 514 Materials Selection in Mechanical Design  4R-0L-4C 
+ME 516 Introduction to MEMS: Fabrication &amp; Applications 3R-3L-4C S
+ME 517 Mechanics of Metal Forming 4R-0L-4C 
+ME 518 Advanced Kinematics 4R-0L-4C S
+ME 519 Advanced MEMS: Modeling &amp; Packaging 3R-3L-4C F
+ME 520 Computer-Aided Design &amp; Manufacturing (CAD/CAM) 4R-0L-4C W
+ME 522 Advanced Finite Element Analysis 4R-1L-4C S
+ME 523 Fatigue 4R-0L-4C S
+ME 524 Mechanics of Composites 4R-0L-4C 
+ME 526 Turbomachinery 4R-0L-4C 
+ME 527 Computational Fluid Dynamics 3R-3L-4C 
+ME 528 Materials Research and Instrumentation 4R-0L-4C 
+ME 536 Computational Intelligence in Control Engineering 4R-0L-4C 
+ME 545 Robot Dynamics and Control 4R-0L-4C 
+ME 547 Visualizing Data 4R-0L-4C 
+ME 550 Combustion  4R-0L-4C 
+ME 590 Thesis Research As assigned F,W,S
+ME 597 Selected Topics for Graduate Students As assigned. Maximum 4 credits per term.  F,W,S
+ME CPT Curricular Practical Training 1R-0L-1C 

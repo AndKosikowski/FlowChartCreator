@@ -1,0 +1,80 @@
+EM 102 Graphical Communications for Civil Engineers 1R-2L-2C S
+Prerequisities: 
+Corequisites: />
+
+EM 103 Introduction to Design 1R-3L-2C S
+Prerequisities: 
+Corequisites: />
+
+EM 104 Graphical Communications 1R-2L-2C F
+Prerequisities: 
+Corequisites: />
+
+EM 120 Engineering Statics 4R-0L-4C F, S
+Prerequisities: 
+Corequisites: >MA 111</a>                          <br/>
+
+EM 121 Statics &amp; Mechanics of Materials I 4R-0L-4C F, W, S
+Prerequisities: 
+Corequisites: >MA 111</a>                          <br/>
+
+EM 202 Dynamics 4R-0L-4C F
+Prerequisities: 
+Corequisites: >MA 112</a>, and                             
+
+EM 203 Mechanics of Materials 4R-0L-4C W
+Prerequisities: 
+Corequisites: >EM 120</a>                          <br/>
+
+EM 204 Statics &amp; Mechanics of Materials II 4R-0L-4C F, S
+Prerequisities: 
+Corequisites: >EM 121</a>                          <br/>
+
+EM 301 Fluid Mechanics 4R-0L-4C S
+Prerequisities: 
+Corequisites: >EM 202</a>                          <br/>
+
+EM 304 Advanced CAD | Professional Certification 4R-0L-4C W
+Prerequisities: 
+Corequisites: >EM 104</a> or                             
+
+EM 305 Advanced CAD | Parametric and Equation Driven Design 4R-0L-4C F
+Prerequisities: 
+Corequisites: >EM 104</a> or                             
+
+EM 402   Three-Dimensional Dynamics 4R-0L-4C F
+Prerequisities: 
+Corequisites: >ES 214</a>                          <br/>
+
+EM 403 Advanced Mechanics of Materials 4R-0L-4C See Department
+Prerequisities: 
+Corequisites: >ME 480</a>, and                             
+
+EM 406 Vibration Analysis 4R-0L-4C F
+Prerequisities: 
+Corequisites: >ES 205</a>                          <br/>
+
+EM 493 Selected Topics in Engineering &amp; Technology As assigned See Department
+Prerequisities: 
+Corequisites: />
+
+EM 501 Topics in Fluid Mechanics Arranged See Department
+Prerequisities: 
+Corequisites: >ME 401</a>                              or consent of instructor
+
+EM 502 Advanced Dynamics 4R-0L-4C See Department
+Prerequisities: 
+Corequisites: >ES 205</a>                          <br/>
+
+EM 503 Advanced Vibration Analysis 4R-0L-4C See Department
+Prerequisities: 
+Corequisites: >EM 406</a>                          <br/>
+
+EM 505 Theory of Elasticity 4R-0L-4C See Department
+Prerequisities: 
+Corequisites: >EM 203</a> or                             
+
+EM 508 Energy Methods in Engineering Mechanics 4R-0L-4C Not Offered
+Prerequisities: 
+Corequisites: >EM 403</a>, and                             
+

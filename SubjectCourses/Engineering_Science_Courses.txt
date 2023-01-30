@@ -1,0 +1,36 @@
+ES 201 Conservation &amp; Accounting Principles 4R-0L-4C F,W
+Prerequisities: 
+Corequisites: >EM 121</a>, and                             
+
+ES 202 Fluid Systems 2 2/3R-1L-3C  W,S
+Prerequisities: 
+Corequisites: >ES 201</a>                              with a grade of C or better
+
+ES 203 Electrical Systems 3R-3L-4C F,W,S
+Prerequisities: 
+Corequisites: >MA 113</a>, and                             
+
+ES 204 Mechanical Systems 2 2/3R-1L-3C W,S
+Prerequisities: 
+Corequisites: >BE 100</a> or                             
+
+ES 205 Analysis &amp; Design of Engineering Systems 3R-3L-4C S,F
+Prerequisities: 
+Corequisites: >ES 213*</a>, and                             
+
+ES 212 Fluid Systems  3R-3L-4C W,S
+Prerequisities: 
+Corequisites: >ES 201</a>                              With a grade of C or higher
+
+ES 213 Electrical Systems 3R-0L-3C 
+Prerequisities: 
+Corequisites: >MA 113</a>,                             
+
+ES 213L Electrical Systems Lab 0R-3L-1C 
+Prerequisities: 
+Corequisites: />
+
+ES 214 Mechanical Systems  3R-1L-4C  W,S
+Prerequisities: 
+Corequisites: >ES 201*</a>,                             
+

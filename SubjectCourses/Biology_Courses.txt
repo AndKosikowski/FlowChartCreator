@@ -1,0 +1,148 @@
+BIO 101 Essential Biology 4R-OL-4C 
+Prerequisities: 
+Corequisites: />
+
+BIO 102 Nutrition 4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+BIO 103 Core Biology Advances and Applications   04R-0L-4C   
+Prerequisities: 
+Corequisites: />
+
+BIO 104 Science in Practice 4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+BIO 105 Human Health and Disease 4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+BIO 107 Introduction to Environmental Science 4R-0L-4C W
+Prerequisities: 
+Corequisites: />
+
+BIO 110  Cell Structure and Function 3R-3L-4C F,W
+Prerequisities: 
+Corequisites: />
+
+BIO 120 Comparative Anatomy &amp; Physiology 3R-3L-4C S
+Prerequisities: 
+Corequisites: />
+
+BIO 130 Evolution and Diversity 3R-3L-4C F
+Prerequisities: 
+Corequisites: />
+
+BIO 191 Special Topics in Biology XR-0L-XC 
+Prerequisities: 
+Corequisites: />
+
+BIO 199 Professional Experience 1R-0L-1C 
+Prerequisities: 
+Corequisites: />
+
+BIO 205 Cellular Physiology 4R-0L-4C F
+Prerequisities: 
+Corequisites: >BIO 110 </a>                          <br/>
+
+BIO 210 Mendelian &amp; Molecular Genetics 3R-3L-4C F
+Prerequisities: 
+Corequisites: >BIO 110 </a>                              or instructor consent
+
+BIO 220 Microbiology 3R-3L-4C W
+Prerequisities: 
+Corequisites: >BIO 110 </a>                              or instructor consent.
+
+BIO 230 Cell Biology 3R-3L-4C S
+Prerequisities: 
+Corequisites: >BIO 110 </a>                              or instructor consent
+
+BIO 310 Plant Structure &amp; Function 3R-3L-4C S (alternate years)
+Prerequisities: 
+Corequisites: >BIO 130</a>                              or instructor consent.
+
+BIO 320 Ecology 3R-3L-4C F (alternate years)
+Prerequisities: 
+Corequisites: >BIO 130</a>                              or instructor consent
+
+BIO 330 Evolutionary Biology 4R-0L-4C W (alternate years)
+Prerequisities: 
+Corequisites: >BIO 130</a>                              or instructor consent
+
+BIO 340 Introduction to Biomedical Research: Clinical Methodology 1R-1L-1C 
+Prerequisities: 
+Corequisites: >BIO 120</a>                              and Jr/Sr standing or consent of instructor.
+
+BIO 350 Principles of Synthetic Biology 2R-0L-2C W
+Prerequisities: 
+Corequisites: />
+
+BIO 351 Synthetic Biology Design 2R-0L-2C S
+Prerequisities: 
+Corequisites: >BIO 350</a>                          <br/>
+
+BIO 352 Synthetic Biology Laboratory 4C (studio format, 4 days x 3 hrs) Su1
+Prerequisities: 
+Corequisites: />
+
+BIO 399 Practice of Science 4R-0L-4C 
+Prerequisities: 
+Corequisites: >RH 330</a>, and                             
+
+BIO 410 Infection and Immunity 4R-0L-4C Arranged
+Prerequisities: 
+Corequisites: >BIO 110 </a>                              or instructor consent
+
+BIO 411 Genetic Engineering 4R-0L-4C Assigned
+Prerequisities: 
+Corequisites: >BIO 205</a> or                             
+
+BIO 421 Applied Microbiology 4R-0L-4C Assigned
+Prerequisities: 
+Corequisites: >BIO 110 </a>                              *Arranged prerequisite or instructor consent
+
+BIO 431 Genomics and Proteomics 4R-0L-4C S
+Prerequisities: 
+Corequisites: >BIO 205</a> or                             
+
+BIO 441 Virology 3R-3L-4C 
+Prerequisities: 
+Corequisites: >BIO 110 </a>                              or instructor consent
+
+BIO 451 Cancer Biology 4R-0L-4C 
+Prerequisities: 
+Corequisites: >BIO 205</a> or                             
+
+BIO 461 Evolutionary Medicine 4R-0L-4C Arranged
+Prerequisities: 
+Corequisites: >BIO 130*</a>, and                             
+
+BIO 471 Genetic &amp; Molecular Analysis of Inherited Human Disease 4R-0L-4C S
+Prerequisities: 
+Corequisites: >BIO 205*</a> or                             
+
+BIO 491  Special Topics in Biology XR-0L-XC 
+Prerequisities: 
+Corequisites: />
+
+BIO 492 Directed Study in Biology XR-XL-XC 
+Prerequisities: 
+Corequisites: />
+
+BIO 496 Senior Thesis Research I 0R-6L-2C F,W,S
+Prerequisities: 
+Corequisites: >BIO 399</a>                               and consent of instructor
+
+BIO 497 Senior Thesis Research II  0R-12L-4C F,W,S
+Prerequisities: 
+Corequisites: >BIO 399</a>                              and consent of instructor
+
+BIO 498 Senior Thesis Research III 0R-12L-4C F,W,S
+Prerequisities: 
+Corequisites: >BIO 399</a>                              and consent of instructor
+
+BIO 499 Senior Thesis Research IV 0R-6L-2C W
+Prerequisities: 
+Corequisites: >BIO 399</a>                              and consent of instructor
+

@@ -1,0 +1,45 @@
+CHE 110 Programming &amp; Computation for Chemical Engineers 2R-0L-2C S
+CHE 200 Career Preparation I 1R-0L-0C F
+CHE 201 Conservation Principles and Balances 4R-0L-4C F
+CHE 202 Basic Chemical Process Calculations 4R-0L-4C W
+CHE 301 Fluid Mechanics 4R-0L-4C F,S
+CHE 303 Chemical Engineering Thermodynamics 4R-0L-4C F,S
+CHE 304 Multi-Component Thermodynamics 4R-0L-4C F,W
+CHE 310 Numerical Methods for Chemical Engineers 4R-0L-4C W
+CHE 315 Materials Science and Engineering 4R-0L-4C F,S
+CHE 320 Fundamentals of Heat &amp; Mass Transfer 4R-0L-4C F,W
+CHE 321 Applications of Heat &amp; Mass Transfer 4R-0L-4C W,S
+CHE 404 Kinetics &amp; Reactor Design 4R-0L-4C F,S
+CHE 405 Introduction to MEMS: Fabrication &amp; Applications 3R-3L-4C S
+CHE 409 Professional Practice 1R-0L-1C F
+CHE 411 Chemical Engineering Laboratory I 2R-3L-3C S
+CHE 412 Chemical Engineering Laboratory II  2R- 6L-4C F
+CHE 413 Chemical Engineering Laboratory III 2R- 6L-4C W
+CHE 416 Chemical Engineering Design I 4R-0L-4C F
+CHE 417 Chemical Engineering Design II 4R-0L-4C W
+CHE 418 Chemical Engineering Design III: Capstone Design Project 0R-6L-2C S
+CHE 419 Advanced MEMS: Modeling &amp; Packaging 3R-3L-4C F
+CHE 420 Consulting Engineering Seminar 2R-0L-2C 
+CHE 440 Process Control 4R-0L-4C W
+CHE 441 Polymer Engineering 4R-0L-4C F
+CHE 460 Particle Technology 4R-0L-4C 
+CHE 461 Unit Operations in Environmental Engineering 4R-0L-4C F or W
+CHE 465 Energy and the Environment 4R-0L-4C W or S
+CHE 470 Safety, Health, and Loss Prevention 4R-0L-4C F or S
+CHE 490 Special Topics in Chemical Engineering 4R-0L-4C F,W,S
+CHE 499 Directed Research Variable Credit F,W,S
+CHE 502 Transport Phenomena 4R-0L-4C 
+CHE 504 Advanced Reactor Design 4R-0L-4C W
+CHE 505 Introduction to MEMS: Fabrication &amp; Applications 3R-3L-4C S
+CHE 512 Petrochemical Processes 4R-0L-4C W
+CHE 513 Advanced Chemical Engineering Thermodynamics 4R-0L-4C 
+CHE 515 Nanomaterials Science &amp; Engineering 4R-0L-4C 
+CHE 519 Advanced MEMS: Modeling &amp; Packaging 3R-3L-4C F
+CHE 540 Advanced Process Control 4R-0L-4C 
+CHE 545 Introduction to Biochemical Engineering 4R-0L-4C 
+CHE 546 Bioseparations 4R-0L-4C 
+CHE 590 Special Topics in Chemical Engineering 4R-0L-4C F,W,S
+CHE 597 Special Projects in Chemical Engineering Variable Credit F,W,S
+CHE 598 Graduate Seminar 1R-0L-0C F,W,S
+CHE 599 Thesis Research As assigned F,W,S
+CHE CPT Curricular Practical Training 1R-0L-1C 

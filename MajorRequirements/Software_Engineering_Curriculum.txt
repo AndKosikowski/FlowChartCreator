@@ -1,0 +1,49 @@
+CSSE 120 Introduction to Software Development
+MA 111 Calculus I
+PH 111 Physics I
+RH 131 Rhetoric & Composition 	
+RHIT 100 Foundations for Rose-Hulman Success
+CSSE 220 Object-Oriented Software Development
+MA 112 Calculus II
+PH 112 Physics II
+HSSA Elective
+CSSE 132 Introduction to Computer Systems Design
+MA 113 Calculus III
+ECE 233 Introduction to Digital Systems
+Science Elective
+CSSE 232 Computer Architecture I 
+CSSE 280 Introduction to Web Programming
+MA 221 Matrix Algebra & Differential Equations I
+MA 276 Introduction to Proofs
+CSSE 230 Data Structures & Algorithm Analysis
+MA 374 Combinatorics
+RH 330 Technical & Professional Communication
+CSSE 332 Operating Systems
+CSSE 376 Software Quality Assurance
+MA Elective
+CSSE 333 Database Systems
+HSSA Elective
+CSSE 371 Software Requirements Engineering
+CSSE 372 Software Project Management
+MA 381 Introduction to Probability with Statistical Applications 
+CHEM 111 General Chemistry I
+CHEM 111L Gen Chemistry I Lab
+CSSE 374 Software Design
+CSSE 304 Programming Lang. Concepts
+Domain track course
+HSSA Elective
+CSSE 373 Formal Methods in Specification & Design
+CSSE 375 Software Construction & Evolution
+HSSA Elective
+Domain track course or free elective
+CSSE 477 Software Architecture
+CSSE 497 Senior Capstone Project I 
+HSSA Elective
+Domain track course or free elective
+CSSE 498 Senior Capstone Project II
+HSSA Elective
+Domain Track Course
+Domain Track Course
+CSSE 499 Senior Capstone Project III
+HSSA Elective
+Free Elective

@@ -1,0 +1,50 @@
+PH 111 Physics I
+MA 111 Calculus I
+RHIT 100 Foundations for Rose-Hulman Success
+CHEM 111 General Chemistry I
+EM 104 Graphical Communications
+PH 112	Physics II
+MA 112	Calculus II
+CHEM 113	General Chemistry II
+RH 131	Rhetoric and Composition
+PH 113 Physics III
+MA 113 Calculus III
+ME 123 Computer Applications I
+EP 180 Engineering at Nanoscale*
+EM 103 Introduction to Design
+ECE 203 DC Circuits
+PH 235 Many Particle Physics
+MA 211 Differential Equations or MA 221 Matrix Algebra and Differential Equations I
+Science, Engineering or Math Elective
+EP 280 Intro to Nano Engineering
+PH 255 Foundations of Modern Physics
+MA 212 Matrix Algebra & Systems of Differential Equations or MA 222 Matrix Algebra and Differential Equations II
+ECE 204 AC Circuits
+EP 380 Nano Technology Entrepreneurship & Ethics
+OE 295 Optical Systems
+ECON S151 Intro to Microeconomics or ECON S152 Intro to Macroeconomics
+EM 121 Statics
+PH 316 Electric & Magnetic Fields
+ENG	200 Level Engineering Elective
+PH 405 Semiconductor Materials & Applications
+MA 223 Engineering Statistics I
+HSSA Elective
+PH 317 Electromagnetism
+RH 330 Technical & Professional Communication.
+EP 406 Semiconductor Devices & Fabrication
+PH 327 Thermodynamics & Stat Mech
+EP 410 Intro to MEMS
+EP 415 Engineering Physics Project I
+HSSA Elective
+EP 416 Engineering Physics Project II
+EP 407 Semiconductor Fabrication & Characterization
+EP 411 Advanced MEMS
+HSSA Elective
+EP 417 Engineering Physics Project III
+300/400-Level Engineering Elective
+HSSA Elective
+PH 401 Intro Quantum Mechanics
+HSSA Elective
+HSSA Elective
+Engineering Elective	
+Free Elective

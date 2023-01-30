@@ -1,0 +1,184 @@
+CHE 110 Programming &amp; Computation for Chemical Engineers 2R-0L-2C S
+Prerequisities: 
+Corequisites: />
+
+CHE 199 Professional Experience 1R-0L-1C 
+Prerequisities: 
+Corequisites: />
+
+CHE 200 Career Preparation I 1R-0L-0C F
+Prerequisities: 
+Corequisites: />
+
+CHE 201 Conservation Principles and Balances 4R-0L-4C F
+Prerequisities: 
+Corequisites: >MA 113</a>,                             
+
+CHE 202 Basic Chemical Process Calculations 4R-0L-4C W
+Prerequisities: 
+Corequisites: >CHE 201</a>, and                             
+
+CHE 301 Fluid Mechanics 4R-0L-4C F,S
+Prerequisities: 
+Corequisites: >CHE 201</a>, and                             
+
+CHE 303 Chemical Engineering Thermodynamics 4R-0L-4C F,S
+Prerequisities: 
+Corequisites: >CHE 202</a>, and                             
+
+CHE 304 Multi-Component Thermodynamics 4R-0L-4C F,W
+Prerequisities: 
+Corequisites: >CHE 303</a>, and                             
+
+CHE 310 Numerical Methods for Chemical Engineers 4R-0L-4C See Department
+Prerequisities: 
+Corequisites: >CHE 110</a>, and                             
+
+CHE 315 Materials Science and Engineering 4R-0L-4C F,S
+Prerequisities: 
+Corequisites: >CHEM 115</a>                              or consent of instructor
+
+CHE 320 Fundamentals of Heat &amp; Mass Transfer 4R-0L-4C F,W
+Prerequisities: 
+Corequisites: >CHE 202</a>, and                             
+
+CHE 321 Applications of Heat &amp; Mass Transfer 4R-0L-4C W,S
+Prerequisities: 
+Corequisites: >CHE 320</a>, and                             
+
+CHE 340 Process Control 4R-0L-4C F, W
+Prerequisities: 
+Corequisites: >CHE 202</a>, and                             
+
+CHE 404 Reaction Engineering 4R-0L-4C F,S
+Prerequisities: 
+Corequisites: >CHEM 360</a>, and                             
+
+CHE 405 Introduction to MEMS: Fabrication &amp; Applications 3R-3L-4C S
+Prerequisities: 
+Corequisites: />
+
+CHE 409 Professional Practice 1R-0L-1C F
+Prerequisities: 
+Corequisites: />
+
+CHE 411 Chemical Engineering Laboratory I 2R-3L-3C S
+Prerequisities: 
+Corequisites: >CHEM 225</a>, and                             
+
+CHE 412 Chemical Engineering Laboratory II  2R- 6L-4C F
+Prerequisities: 
+Corequisites: >CHE 321</a>, and                             
+
+CHE 413 Chemical Engineering Laboratory III 2R- 6L-4C W
+Prerequisities: 
+Corequisites: >CHE 412</a>                          <br/>
+
+CHE 416 Chemical Engineering Design I 4R-0L-4C F
+Prerequisities: 
+Corequisites: >CHE 321</a>                          <br/>
+
+CHE 417 Chemical Engineering Design II 4R-0L-4C W
+Prerequisities: 
+Corequisites: >CHE 416</a>, and                             
+
+CHE 418 Chemical Engineering Design III: Capstone Design Project 0R-6L-2C S
+Prerequisities: 
+Corequisites: >CHE 417</a>                              or consent of instructor
+
+CHE 419 Advanced MEMS: Modeling &amp; Packaging 3R-3L-4C F
+Prerequisities: 
+Corequisites: >EP 410</a>                              or equivalent (See EP 411/511.)
+
+CHE 441 Polymer Engineering 4R-0L-4C SeeDept
+Prerequisities: 
+Corequisites: >CHE 404*</a>, and                             
+
+CHE 460 Particle Technology 4R-0L-4C See Department
+Prerequisities: 
+Corequisites: >CHE 202</a>, and                             
+
+CHE 461 Unit Operations in Environmental Engineering 4R-0L-4C F or W
+Prerequisities: 
+Corequisites: >EM 301</a> or                             
+
+CHE 465 Energy and the Environment 4R-0L-4C See Department
+Prerequisities: 
+Corequisites: >CHE 303</a> or                             
+
+CHE 470 Safety, Health, and Loss Prevention 4R-0L-4C See Department
+Prerequisities: 
+Corequisites: >CHE 320</a>                          <br/>
+
+CHE 490 Special Topics in Chemical Engineering 4R-0L-4C F,W,S
+Prerequisities: 
+Corequisites: />
+
+CHE 499 Directed Research Variable Credit F,W,S
+Prerequisities: 
+Corequisites: />
+
+CHE 502 Transport Phenomena 4R-0L-4C S
+Prerequisities: 
+Corequisites: >CHE 320</a>                          <br/>
+
+CHE 504 Advanced Reaction Engineering 4R-0L-4C W
+Prerequisities: 
+Corequisites: >CHE 404</a>                          <br/>
+
+CHE 505 Introduction to MEMS: Fabrication &amp; Applications 3R-3L-4C S
+Prerequisities: 
+Corequisites: />
+
+CHE 512 Petrochemical Processes 4R-0L-4C See Department
+Prerequisities: 
+Corequisites: >CHE 321</a>                              or consent of instructor
+
+CHE 513 Advanced Chemical Engineering Thermodynamics 4R-0L-4C F
+Prerequisities: 
+Corequisites: >CHE 304</a>                          <br/>
+
+CHE 515 Nanomaterials Science &amp; Engineering 4R-0L-4C See Department
+Prerequisities: 
+Corequisites: >CHE 315</a> or                             
+
+CHE 519 Advanced MEMS: Modeling &amp; Packaging 3R-3L-4C F
+Prerequisities: 
+Corequisites: >EP 410</a>                              or equivalent course
+
+CHE 525 Process Analytics 4R-0L-4C See Department
+Prerequisities: 
+Corequisites: />
+
+CHE 540 Advanced Process Control 4R-0L-4C Not Offered
+Prerequisities: 
+Corequisites: >CHE 340</a>                              and consent of instructor
+
+CHE 545 Introduction to Biochemical Engineering 4R-0L-4C W
+Prerequisities: 
+Corequisites: >BIO 110 </a>, and                             
+
+CHE 546 Bioseparations 4R-0L-4C S
+Prerequisities: 
+Corequisites: >BIO 110 </a>, and                             
+
+CHE 590 Special Topics in Chemical Engineering 4R-0L-4C F,W,S
+Prerequisities: 
+Corequisites: />
+
+CHE 597 Special Projects in Chemical Engineering Variable Credit F,W,S
+Prerequisities: 
+Corequisites: />
+
+CHE 598 Graduate Seminar 1R-0L-0C F,W,S
+Prerequisities: 
+Corequisites: />
+
+CHE 599 Thesis Research As assigned F,W,S
+Prerequisities: 
+Corequisites: />
+
+CHE 699 Professional Experience 1R-0L-1C 
+Prerequisities: 
+Corequisites: />
+

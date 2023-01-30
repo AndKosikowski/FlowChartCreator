@@ -1,0 +1,268 @@
+CHEM 111 General Chemistry I 3R-0L-3C  F,W,S
+Prerequisities: 
+Corequisites: >CHEM 111L</a>
+
+CHEM 111L General Chemistry I Laboratory 0R-3L-1C F,W,S
+Prerequisities: 
+Corequisites: >CHEM 111</a>
+
+CHEM 112  Chemistry Honors 4R-3L-5C F
+Prerequisities: 
+Corequisites:      <strong>Corequisites:</strong>                                         There are no corequisites for this course.
+
+CHEM 113 General Chemistry II 3R-0L-3C  W,S
+Prerequisities: 
+Corequisites: >CHEM 113L</a>
+
+CHEM 113L General Chemistry II Laboratory 0R-3L-1C W,S
+Prerequisities: 
+Corequisites: >CHEM 113</a>
+
+CHEM 115 General Chemistry III 3R-0L-3C  
+Prerequisities: 
+Corequisites: >CHEM 115L</a>
+
+CHEM 115L General Chemistry III Laboratory 0R-3L-1C W,S
+Prerequisities: 
+Corequisites: >CHEM 115</a>
+
+CHEM 199 Professional Experience 1R-0L-1C 
+Prerequisities: 
+Corequisites:      <strong>Corequisites:</strong>                                         There are no corequisites for this course.
+
+CHEM 200 Career Preparation 1R-0L-1C W
+Prerequisities: 
+Corequisites:      <strong>Corequisites:</strong>                                         There are no corequisites for this course.
+
+CHEM 225 Analytical Chemistry 3R-0L-3C  F,S
+Prerequisities: 
+Corequisites: >CHEM 225L</a>
+
+CHEM 225L Analytical Chemistry Laboratory 0R-3L-1C F,S
+Prerequisities: 
+Corequisites: >CHEM 225</a>
+
+CHEM 251 Organic Chemistry I 3.5R-0L-3.5C F,W
+Prerequisities: 
+Corequisites: >CHEM 251L</a>
+
+CHEM 251L Organic Chemistry I Laboratory 0R-3L-0.5C F,W
+Prerequisities: 
+Corequisites: >CHEM 251</a>
+
+CHEM 252 Organic Chemistry II 3R-0L-3C W,S
+Prerequisities: 
+Corequisites: >CHEM 252L</a>
+
+CHEM 252L Organic Chemistry II Laboratory 0R-3L-1C W,S
+Prerequisities: 
+Corequisites: >CHEM 252</a>
+
+CHEM 253 Organic Chemistry III 3R-0L-3C S
+Prerequisities: 
+Corequisites: >CHEM 253L</a>
+
+CHEM 253L Organic Chemistry III Laboratory 0R-4L-1C S
+Prerequisities: 
+Corequisites: >CHEM 253</a>
+
+CHEM 270 Special Topics in Chemistry (1-4)R-0L-(1-4)C 
+Prerequisities: 
+Corequisites:      <strong>Corequisites:</strong>                                         There are no corequisites for this course.
+
+CHEM 276 Special Topics in Chemistry with Laboratory (0-3)R-(3-6)L-(1-4)C 
+Prerequisities: 
+Corequisites:      <strong>Corequisites:</strong>                                         There are no corequisites for this course.
+
+CHEM 290 Chemical Research 0R-(4-8)L-(1-2)C 
+Prerequisities: 
+Corequisites:      <strong>Corequisites:</strong>                                         There are no corequisites for this course.
+
+CHEM 291 Introduction to Chemical Research 2R-4L-3C W
+Prerequisities: 
+Corequisites:                                                        <br/>
+
+CHEM 326 Bioanalytical Chemistry 3R-4L-4-C F
+Prerequisities: 
+Corequisites:      <strong>Corequisites:</strong>                                         There are no corequisites for this course.
+
+CHEM 327 Advanced Analytical Chemistry 3R-4L-4C W
+Prerequisities: 
+Corequisites:      <strong>Corequisites:</strong>                                         There are no corequisites for this course.
+
+CHEM 330 Biochemistry I 4R-0L-4C F,S
+Prerequisities: 
+Corequisites:      <strong>Corequisites:</strong>                                         There are no corequisites for this course.
+
+CHEM 331 Biochemistry II 4R-0L-4C W
+Prerequisities: 
+Corequisites:      <strong>Corequisites:</strong>                                         There are no corequisites for this course.
+
+CHEM 360 Introduction to Physical Chemistry for Engineers 4R-0L-4C W,S
+Prerequisities: 
+Corequisites:      <strong>Corequisites:</strong>                                         There are no corequisites for this course.
+
+CHEM 361 Physical Chemistry I 4R-2L-4C F
+Prerequisities: 
+Corequisites:      <strong>Corequisites:</strong>                                         There are no corequisites for this course.
+
+CHEM 362 Physical Chemistry II  3R-2L-4C W
+Prerequisities: 
+Corequisites:      <strong>Corequisites:</strong>                                         There are no corequisites for this course.
+
+CHEM 391 Research Proposal 1R-0L-1C 
+Prerequisities: 
+Corequisites:      <strong>Corequisites:</strong>                                         There are no corequisites for this course.
+
+CHEM 395 Chemistry Seminar 0R-0L-0C 
+Prerequisities: 
+Corequisites:      <strong>Corequisites:</strong>                                         There are no corequisites for this course.
+
+CHEM 420 Electronics for Scientists 3R-4L-4C 
+Prerequisities: 
+Corequisites:                                                        <br/>
+
+CHEM 421 Biochemical Mass Spectrometry 1R-0L-1C 
+Prerequisities: 
+Corequisites:      <strong>Corequisites:</strong>                                         There are no corequisites for this course.
+
+CHEM 422 Fluorescence Spectrometry 1R-0L-1C 
+Prerequisities: 
+Corequisites:      <strong>Corequisites:</strong>                                         There are no corequisites for this course.
+
+CHEM 423 NMR Spectrometry 1R-0L-1C 
+Prerequisities: 
+Corequisites:      <strong>Corequisites:</strong>                                         There are no corequisites for this course.
+
+CHEM 424 Absorption Spectrometry 2R-0L-2C 
+Prerequisities: 
+Corequisites:      <strong>Corequisites:</strong>                                         There are no corequisites for this course.
+
+CHEM 430 Advanced Biochemistry 4R-0L-4C 
+Prerequisities: 
+Corequisites:      <strong>Corequisites:</strong>                                         There are no corequisites for this course.
+
+CHEM 433 Biochemistry Laboratory 0R-3L-lC 
+Prerequisities: 
+Corequisites:      <strong>Corequisites:</strong>                                         There are no corequisites for this course.
+
+CHEM 441 Inorganic Chemistry I 4R-0L-4C F
+Prerequisities: 
+Corequisites:      <strong>Corequisites:</strong>                                         There are no corequisites for this course.
+
+CHEM 442 Inorganic Chemistry II 3R-4L-4C W
+Prerequisities: 
+Corequisites:      <strong>Corequisites:</strong>                                         There are no corequisites for this course.
+
+CHEM 451 Organic Structure Determination 2R-8L-4C 
+Prerequisities: 
+Corequisites:                                                        <br/>
+
+CHEM 463 Quantum Chemistry &amp; Molecular Spectroscopy 4R-0L-4C S
+Prerequisities: 
+Corequisites:      <strong>Corequisites:</strong>                                         There are no corequisites for this course.
+
+CHEM 470 Special Topics in Chemistry (1-4)R-0L-(1-4)C 
+Prerequisities: 
+Corequisites:      <strong>Corequisites:</strong>                                         There are no corequisites for this course.
+
+CHEM 476 Special Topics in Chemistry with Laboratory (0-3)R-(3-6)L-(1-4)C 
+Prerequisities: 
+Corequisites:      <strong>Corequisites:</strong>                                         There are no corequisites for this course.
+
+CHEM 477 Directed Study in Chemistry (1-4)R-0L-(1-4)C 
+Prerequisities: 
+Corequisites:      <strong>Corequisites:</strong>                                         There are no corequisites for this course.
+
+CHEM 490 Chemical Research Rotation 1R-4L-2C F, W, S
+Prerequisities: 
+Corequisites:      <strong>Corequisites:</strong>                                         There are no corequisites for this course.
+
+CHEM 491 Senior Thesis 1R-0L-1C F, W, S
+Prerequisities: 
+Corequisites:      <strong>Corequisites:</strong>                                         There are no corequisites for this course.
+
+CHEM 495 Chemistry Seminar 0R-0L-0C 
+Prerequisities: 
+Corequisites:      <strong>Corequisites:</strong>                                         There are no corequisites for this course.
+
+CHEM 496 Chemistry Seminar 0R-0L-0C 
+Prerequisities: 
+Corequisites:      <strong>Corequisites:</strong>                                         There are no corequisites for this course.
+
+CHEM 497 Senior Presentation 1R-0L-1C F, W, S
+Prerequisities: 
+Corequisites:      <strong>Corequisites:</strong>                                         There are no corequisites for this course.
+
+CHEM 499 Independent Chemical Research 0R-(4-8)L-(1-2)C F, W, S
+Prerequisities: 
+Corequisites:      <strong>Corequisites:</strong>                                         There are no corequisites for this course.
+
+CHEM 520 Electronics for Scientists  3R-4L-4C 
+Prerequisities: 
+Corequisites:                                                        <br/>
+
+CHEM 530 Advanced Biochemistry 4R-0L-4C 
+Prerequisities: 
+Corequisites:      <strong>Corequisites:</strong>                                         There are no corequisites for this course.
+
+CHEM 531 Biochemical Instrumentation 3R-4L-4C 
+Prerequisities: 
+Corequisites:      <strong>Corequisites:</strong>                                         There are no corequisites for this course.
+
+CHEM 532 Biochemical Pharmacology 4R-0L-4C 
+Prerequisities: 
+Corequisites:      <strong>Corequisites:</strong>                                         There are no corequisites for this course.
+
+CHEM 545 Organometallic Chemistry 4R-0L-4C 
+Prerequisities: 
+Corequisites:      <strong>Corequisites:</strong>                                         There are no corequisites for this course.
+
+CHEM 552 Synthetic Organic Chemistry 4R-0L-4C 
+Prerequisities: 
+Corequisites:      <strong>Corequisites:</strong>                                         There are no corequisites for this course.
+
+CHEM 554 Theoretical Organic Chemistry 4R-0L-4C 
+Prerequisities: 
+Corequisites:                                                        <br/>
+
+CHEM 555 Natural Products 4R-0L-4C 
+Prerequisities: 
+Corequisites:                                                        <br/>
+
+CHEM 561 Advanced Physical Chemistry 4R-0L-4C 
+Prerequisities: 
+Corequisites:      <strong>Corequisites:</strong>                                         There are no corequisites for this course.
+
+CHEM 570 Special Topics in Chemistry (1-4)R-0L-(1-4)C 
+Prerequisities: 
+Corequisites:      <strong>Corequisites:</strong>                                         There are no corequisites for this course.
+
+CHEM 581 Polymer Chemistry 3R-4L-4C 
+Prerequisities: 
+Corequisites:                                                        <br/>
+
+CHEM 582 Physical Properties of Polymeric Materials 4R-0L-4C 
+Prerequisities: 
+Corequisites:      <strong>Corequisites:</strong>                                         There are no corequisites for this course.
+
+CHEM 595 Chemistry Seminar 0R-0L-0C 
+Prerequisities: 
+Corequisites:      <strong>Corequisites:</strong>                                         There are no corequisites for this course.
+
+CHEM 596 Chemistry Seminar 0R-0L-0C 
+Prerequisities: 
+Corequisites:      <strong>Corequisites:</strong>                                         There are no corequisites for this course.
+
+CHEM 597 Chemistry Seminar 0R-0L-0C 
+Prerequisities: 
+Corequisites:      <strong>Corequisites:</strong>                                         There are no corequisites for this course.
+
+CHEM 599 Thesis Research As assigned 
+Prerequisities: 
+Corequisites:      <strong>Corequisites:</strong>                                         There are no corequisites for this course.
+
+CHEM 699 Professional Experience 1R-0L-1C 
+Prerequisities: 
+Corequisites:      <strong>Corequisites:</strong>                                         There are no corequisites for this course.
+

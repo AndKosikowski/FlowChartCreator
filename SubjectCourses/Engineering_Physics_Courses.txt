@@ -1,0 +1,88 @@
+EP 180 Engineering at Nanoscale 2R-0L-2C S
+Prerequisities: 
+Corequisites: />
+
+EP 199 Professional Experience 1R-0L-1C 
+Prerequisities: 
+Corequisites: />
+
+EP 280 Introduction to Nano-engineering 3.5R-1.5L-4C W
+Prerequisities: 
+Corequisites: />
+
+EP 290 Directed Study 1-4C 
+Prerequisities: 
+Corequisites: />
+
+EP 330 Material Failure 3R-3L-4C W
+Prerequisities: 
+Corequisites: >PH 112</a>                          <br/>
+
+EP 380 Nanotechnology, Entrepreneurship &amp; Ethics 3.5R-1.5L-4C S
+Prerequisities: 
+Corequisites: >EP 280</a>                          <br/>
+
+EP 406 Semiconductor Devices &amp; Fabrication 3R-3L-4C W
+Prerequisities: 
+Corequisites: >PH 405</a> or                             
+
+EP 407 Semiconductor Fabrication &amp; Characterization 2R-6L-4C F
+Prerequisities: 
+Corequisites: >PH 405</a> or                              or Junior or Senior standing &amp; consent of instructor  
+
+EP 408 Microsensors and Actuators 3R-3L-4C S
+Prerequisities: 
+Corequisites: >EP 410</a> or                              Junior or Senior standing, and consent of instructor
+
+EP 410 Introduction to MEMS: Fabrication &amp; Applications 3R-3L-4C S
+Prerequisities: 
+Corequisites: />
+
+EP 411 Advanced topics in MEMS 3R-3L-4C F
+Prerequisities: 
+Corequisites: >EP 410</a>                              or equivalent course
+
+EP 415 Engineering Physics Design I 2R-6L-4C S
+Prerequisities: 
+Corequisites: >OE 280</a> or                             
+
+EP 416 Engineering Physics Design II 2R-6L-4C F
+Prerequisities: 
+Corequisites: >EP 415</a>                          <br/>
+
+EP 417 Engineering Physics Design III 2R-6L-4C W
+Prerequisities: 
+Corequisites: >EP 416</a>                          <br/>
+
+EP 450 Nanomedicine 4R-0L-4C 
+Prerequisities: 
+Corequisites: >PH 113</a>                              or Junior or Senior standing and consent of instructor
+
+EP 470 Special Topics in Engineering Physics 2-4C 
+Prerequisities: 
+Corequisites: />
+
+EP 490 Directed Study 1-4C 
+Prerequisities: 
+Corequisites: />
+
+EP 506 Semiconductor Devices &amp; Fabrication 3R-3L-4C W
+Prerequisities: 
+Corequisites: >PH 405</a> or                             
+
+EP 507 Semiconductor Fabrication &amp; Characterization 2R-6L-4C F
+Prerequisities: 
+Corequisites: >PH 405</a>                              or consent of instructor
+
+EP 508 Microsensors and Actuators 3R-3L-4C S
+Prerequisities: 
+Corequisites: >EP 410</a> or                              Junior or Senior standing and consent of instructor
+
+EP 510 Introduction to MEMS: Fabrication &amp; Applications 3R-3L-4C S
+Prerequisities: 
+Corequisites: />
+
+EP 511 Advanced topics in MEMS 3R-3L-4C F
+Prerequisities: 
+Corequisites: >EP 410</a> or                             
+

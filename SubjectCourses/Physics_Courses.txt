@@ -1,0 +1,192 @@
+PH 090 College Preparatory Physics 4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+PH 111 Physics I 3.5R-1.5L-4C F,W
+Prerequisities: 
+Corequisites: />
+
+PH 112 Physics II 3.5R-1.5L-4C W,S,F
+Prerequisities: 
+Corequisites: >PH 111</a>, and                             
+
+PH 113 Physics III 3.5R-1.5L-4C S,F,W
+Prerequisities: 
+Corequisites: >PH 112</a>, and                             
+
+PH 199 Professional Experience 1R-0L-1C 
+Prerequisities: 
+Corequisites: />
+
+PH 200 Career Preparation 1R-0L-1C W,S
+Prerequisities: 
+Corequisites: />
+
+PH 215 Introduction to CHAOS 2R-0L-2C W
+Prerequisities: 
+Corequisites: />
+
+PH 231 Observational Astronomy 1R-3L-2C F
+Prerequisities: 
+Corequisites: >MA 111</a>, and                             
+
+PH 235 Many-Particle Physics 3.5R-1.5L-4C F
+Prerequisities: 
+Corequisites: >PH 111</a>                          <br/>
+
+PH 241 Physics of Stars 4R-0L-4C W
+Prerequisities: 
+Corequisites: >MA 111</a>, and                             
+
+PH 250 Planets and Galaxies 4R-0L-4C S
+Prerequisities: 
+Corequisites: >MA 111</a>, and                             
+
+PH 255 Foundations of Modern Physics 3.5R-1.5L-4C W
+Prerequisities: 
+Corequisites: >PH 113</a>                          <br/>
+
+PH 265 Fundamentals of Nuclear Physics &amp; Radiation 3R-3L-4C S
+Prerequisities: 
+Corequisites: >PH 112</a>, and either                             
+
+PH 270 Special Topics in Physics 1-4C 
+Prerequisities: 
+Corequisites: />
+
+PH 290 Directed Research 1-4C 
+Prerequisities: 
+Corequisites: />
+
+PH 292 Physical Optics 3.5R-1.5L-4C F
+Prerequisities: 
+Corequisites: >PH 113</a>                          <br/>
+
+PH 302 Biophysics 4R-0L-4C F
+Prerequisities: 
+Corequisites: >PH 113</a>                              or consent of instructor
+
+PH 310 Introduction to Special Relativity 2R-0L-2C F
+Prerequisities: 
+Corequisites: >PH 113</a> or                              Consent of instructor
+
+PH 314 Theoretical Mechanics I 4R-0L-4C S
+Prerequisities: 
+Corequisites: >PH 111</a>, and                             
+
+PH 315 Theoretical Mechanics II 4R-0L-4C W
+Prerequisities: 
+Corequisites: >PH 314</a>                          <br/>
+
+PH 316 Electric &amp; Magnetic Fields 4R-0L-4C F
+Prerequisities: 
+Corequisites: >PH 113</a>, and either                             
+
+PH 317 Electromagnetism 4R-0L-4C W
+Prerequisities: 
+Corequisites: >PH 316</a>                          <br/>
+
+PH 322 Celestial Mechanics 4R-0L-4C S
+Prerequisities: 
+Corequisites: >PH 112</a> or                             
+
+PH 325 Advanced Physics Laboratory I 2R-6L-4C S
+Prerequisities: 
+Corequisites: >PH 255</a> or                             
+
+PH 327 Thermodynamics &amp; Statistical Mechanics 4R-0L-4C S
+Prerequisities: 
+Corequisites: >PH 235</a>                              or consent of instructor
+
+PH 401 Introduction to Quantum Mechanics 4R-0L-4C W
+Prerequisities: 
+Corequisites: >PH 255</a> or                             
+
+PH 402 Introduction to Atomic Physics 4R-0L-4C S (odd years)
+Prerequisities: 
+Corequisites: >PH 401</a>                          <br/>
+
+PH 404 Acoustics 4R-0L-4C W (odd years)
+Prerequisities: 
+Corequisites: >PH 113</a>, and either                             
+
+PH 405 Semiconductor Materials &amp; Applications 3R-3L-4C F
+Prerequisities: 
+Corequisites: >PH 113</a> or                             
+
+PH 407 Solid State Physics 4R-0L-4C S (even years)
+Prerequisities: 
+Corequisites: >PH 255</a> or                             
+
+PH 410 General Relativity 4R-0L-4C W (odd years)
+Prerequisities: 
+Corequisites: >PH 310</a>, and                             
+
+PH 425 Advanced Physics Laboratory II 0R-8L-4C W
+Prerequisities: 
+Corequisites: >PH 325</a>                          <br/>
+
+PH 431 Advanced Observational Astronomy 1R-3L-2C S
+Prerequisities: 
+Corequisites: >PH 231</a>, and either                             
+
+PH 440 X-rays and Crystalline Materials 2R-6L-4C S (even years)
+Prerequisities: 
+Corequisites: >PH 255</a> or                             
+
+PH 460 Directed Study 1-4C 
+Prerequisities: 
+Corequisites: />
+
+PH 470 Special Topics in Physics 2-4C 
+Prerequisities: 
+Corequisites: />
+
+PH 480 Seminar  0C 
+Prerequisities: 
+Corequisites: />
+
+PH 490 Directed Research 1-2 C 
+Prerequisities: 
+Corequisites: />
+
+PH 496 Senior Thesis 2-4C 
+Prerequisities: 
+Corequisites: />
+
+PH 497 Senior Thesis 2-4C F
+Prerequisities: 
+Corequisites: />
+
+PH 498 Senior Thesis  2-4C W
+Prerequisities: 
+Corequisites: />
+
+PH 499 Physics Ethics and Communication   1R-0L-1C  S
+Prerequisities: 
+Corequisites: >PH 497</a>,                             
+
+PH 505 Semiconductor Materials &amp; Devices I 3R-3L-4C F
+Prerequisities: 
+Corequisites: >PH 113</a> or                             
+
+PH 512 Methods of Mathematical Physics 4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+PH 514 Quantum Mechanics 4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+PH 530 Advanced Acoustics 4R-0L-4C 
+Prerequisities: 
+Corequisites: >PH 404</a>                          <br/>
+
+PH 538 Introduction to Neural Networks 3R-3L-4C 
+Prerequisities: 
+Corequisites: />
+
+PH 540 Computer Physics 3R-3L-4C 
+Prerequisities: 
+Corequisites: />
+

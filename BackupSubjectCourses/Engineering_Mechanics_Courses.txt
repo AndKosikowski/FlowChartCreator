@@ -1,0 +1,18 @@
+EM 102 Graphical Communications for Civil Engineers 1R-2L-2C S
+EM 103 Introduction to Design 1R-3L-2C S
+EM 104 Graphical Communications 1R-2L-2C F
+EM 120 Engineering Statics 4R-0L-4C F, S
+EM 121 Statics &amp; Mechanics of Materials I 4R-0L-4C F, W, S
+EM 202 Dynamics 4R-0L-4C F
+EM 203 Mechanics of Materials 4R-0L-4C W
+EM 204 Statics &amp; Mechanics of Materials II 4R-0L-4C F, S
+EM 301 Fluid Mechanics 4R-0L-4C S
+EM 402   Three-Dimensional Dynamics 4R-0L-4C F
+EM 403 Advanced Mechanics of Materials 4R-0L-4C S
+EM 406 Vibration Analysis 4R-0L-4C F
+EM 493 Selected Topics in Engineering &amp; Technology As assigned 
+EM 501 Topics in Fluid Mechanics Arranged 
+EM 502 Advanced Dynamics 4R-0L-4C 
+EM 503 Advanced Vibration Analysis 4R-0L-4C W
+EM 505 Theory of Elasticity 4R-0L-4C 
+EM 508 Energy Methods in Engineering Mechanics 4R-0L-4C 

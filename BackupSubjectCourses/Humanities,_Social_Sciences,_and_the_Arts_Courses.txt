@@ -1,0 +1,202 @@
+ANTH S101 Introduction to Anthropology 4R-OL-4C 
+ANTH S140 Introduction to East Asia 4R-OL-4C 
+ANTH S150 Introduction to Islam 4R-OL-4C 
+ANTH S151 Modern China 4R-OL-4C 
+ANTH S201 Medical Anthropology 4R-OL-4C 
+ANTH S202 Anthropology of Addiction  4R-OL-4C 
+ANTH S203 Food, Culture, and the Self 4R-OL-4C 
+ANTH S204 Race and Racism 4R-OL-4C 
+ANTH S207 Pop Culture in China 4R-OL-4C 
+ANTH S208 Religion in China 4R-OL-4C 
+ANTH S301 Japanese Society 4R-OL-4C 
+ANTH S302 Seminar on Japanese Society 4R-OL-4C 
+ANTH S303 Japanese Culture 4R-OL-4C 
+ANTH S304 Japan: East and West 4R-OL-4C 
+ANTH S350 Islam and Muslim Groups in China 4R-0L-4C 
+ANTH S351  Ethnicity &amp; the State in China  4R-OL-4C 
+ARTS H142 Beginning Drawing 4R-OL-4C 
+ARTS H148 Beginning Photography  4R-OL-4C 
+ARTS H242 Visual Arts in Civilization 4R-OL-4C 
+ARTS H244 Design &amp; Color   4R-OL-4C 
+ARTS H321 Acting: Shakespeare 4R-OL-4C 
+ARTS H322 Acting: Method 4R-OL-4C 
+ARTS H323 Acting: Voice and Movement 4R-OL-4C 
+ARTS H340 Art and Mathematics 4R-OL-4C 
+ARTS H360 Watercolor Painting 4R-OL-4C 
+ARTS H442 Art History: Renaissance to Modern 4R-OL-4C 
+ECON S151 Introduction to Microeconomics 4R-0L-4C F,W,S
+ECON S152 Introduction to Macroeconomics 4R-0L-4C F, W, S
+ECON S251 Intermediate Microeconomics 4R-OL-4C F
+ECON S252 Intermediate Macroeconomics 4R-OL-4C W
+ECON S253 Managerial Economics 4R-OL-4C 
+ECON S254 Money &amp; Banking 4R-OL-4C 
+ECON S255 Industrial Organization 4R-OL-4C 
+ECON S350 Health Economics 4R-OL-4C 
+ECON S351 Environmental Economics 4R-OL-4C 
+ECON S352 Corporate Finance 4R-OL-4C 
+ECON S353 Labor Economics 4R-OL-4C 
+ECON S354 International Trade &amp; Globalization 4R-OL-4C W (Even years)
+ECON S355 International Finance 4R-OL-4C W (Odd years)
+ECON S356 Game Theory 4R-OL-4C 
+ECON S357 History of Economic Thought  4R-OL-4C S (Even years)
+ECON S451 Econometrics 4R-OL-4C S (Odd years)
+ECON S452 Mathematical Economics  4R-OL-4C 
+ECON S458 Seminar for HSS Senior Project 2R-OL-2C F
+ECON S459 Directed Study for HSS Senior Project 2R-OL-2C Arranged W.S
+ENGL H131 Introduction to Short Fiction 4R-OL-4C 
+ENGL H132 Introduction to Non-Fiction 4R-OL-4C 
+ENGL H133 Introduction to Poetry 4R-OL-4C 
+ENGL H134 Popular Literature 4R-OL-4C 
+ENGL H230 Fundamentals of Public Speaking 4R-OL-4C 
+ENGL H232 Blues and Jazz in American Literature 4R-OL-4C 
+ENGL H233 World Literatures 4R-OL-4C 
+ENGL H234 Major American Writers 4R-OL-4C 
+ENGL H235 Major British Writers 4R-OL-4C 
+ENGL H237 Science Fiction 4R-OL-4C 
+ENGL H238 African American Literature 4R-OL-4C 
+ENGL H239 Global Writing &amp; Intercultural Communication 4R-OL-4C 
+ENGL H240 Introduction to Shakespeare 4R-OL-4C 
+ENGL H241 IIntroduction to Film Studies 3R-3L-4C 
+ENGL H243 Survey of American Literature 4R-OL-4C 
+ENGL H245 Modern World Literature 4R-OL-4C 
+ENGL H327 Exiles &amp; Wanderers: The Diaspora in Fiction 4R-OL-4C 
+ENGL H328 Madness, Murder, and Feral Children: Introduction to Postcolonial Literature and Theory 4R-OL-4C 
+ENGL H329 Youth Rebellion in Global Film and Literature 4R-OL-4C 
+ENGL H330 Contemporary Global Film 3R-3L-4C 
+ENGL H331 Irish Drama 4R-0L-4C 
+ENGL H332 American Modernism 4R-OL-4C 
+ENGL H333 Creative Writing 4R-OL-4C 
+ENGL H334 Travel in World Literature 4R-OL-4C 
+ENGL H335 Reading the Bible 4R-OL-4C 
+ENGL H336 Mystery &amp; Horror Literature 4R-OL-4C 
+ENGL H337 Romanticism 4R-OL-4C 
+ENGL H338 Banned in the USA 4R-OL-4C 
+ENGL H339 Rebellion in American Literature 4R-OL-4C 
+ENGL H340 American Drama 4R-OL-4C 
+ENGL H341 African-American Drama 4R-OL-4C 
+ENGL H342 Modern European Drama 4R-OL-4C 
+ENGL H343 Visual Rhetoric and Graphic Novels 4R-OL-4C 
+ENGL H344 Writing in a Digital Age  4R-OL-4C 
+ENGL H345 Literature of Conflict  4R-OL-4C 
+ENGL H346 Contemporary American Fiction 4R-OL-4C 
+ENGL H347 Shakespeare's Europe 4R-OL-4C 
+ENGL H348 Modern Southern Fiction 4R-0L-4C 
+ENGL H349 Nature and Literature 4R-OL-4C 
+ENGL H350 Literature of War 4R-OL-4C 
+ENGL H351 Utopian Thought &amp; Literature 4R-OL-4C 
+ENGL H352 Documentary Film  3R-3L-4C 
+ENGL H357 20th-Century American Novel 4R-OL-4C 
+ENGL H360 Medicine in Literature 4R-OL-4C 
+ENGL H362 Midnight's Children: Literature of Partition 4R-OL-4C 
+ENGL H430 Writing Grants, Funding Ideas  4R-OL-4C 
+ENGL H431 Literary London 4R-OL-4C 
+ENGL H432 History of the American Novel  4R-OL-4C 
+ENGL H433 Film Adaptations: From Text to Screen 4R-OL-4C 
+ENGL H436 Reinterpretations of Literary Themes 4R-OL-4C 
+ENGL H462 Transnational and Postcolonial Literature 4R-OL-4C 
+ENGL H469 Contemporary British Fiction &amp; Film 4R-OL-4C 
+FL L299 Summer Language Study Abroad 12C Max S
+GEOG S110 World Geography 4R-OL-4C 
+GEOG S210 Cultural Geography 4R-OL-4C 
+GEOG S301 Geography of Africa 4R-OL-4C 
+GEOG S302 Geography of Europe 4R-OL-4C 
+GEOG S303 Geography of Middle East 4R-OL-4C 
+GEOG S310 Great Explorers 4R-OL-4C 
+GEOG S410 Medieval Europe 4R-OL-4C 
+GEOG S459 Geography Studies Abroad 4R-OL-4C 
+GEOG S499 Directed Study 4R-OL-4C Arranged
+GER L111 German Language and Culture I 4R-OL-4C F
+GER L112 German Language and Culture II 4R-OL-4C W
+GER L113 German Language and Culture III 4R-OL-4C S
+GER L211 German Language and Culture IV 4R-OL-4C F
+GER L212 German Language and Culture V 4R-OL-4C F
+GER L213 German Language and Culture VI 4R-OL-4C S
+HIST H221 Colonial Latin America 4R-OL-4C 
+HIST H222 Latin America since 1800 4R-OL-4C 
+HIST H223 World History since 1400 4R-OL-4C 
+HIST H322 Disasters &amp; Modern Society 4R-OL-4C 
+HIST H422  Industrial Revolution in Global Context 4R-OL-4C 
+HIST H425 Cities &amp; Technology in the Industrial Age 4R-OL-4C 
+HUM H130 Introduction to Sustainability 4R-OL-4C 
+HUM H140 Introduction to Disability Studies 4R-OL-4C 
+HUM H236 The American Dream 4R-OL-4C 
+HUM H239 Introduction to Science, Technology and Society  4R-OL-4C 
+HUM H311 Topics in German Culture I 4R-OL-4C 
+HUM H332 Don Quixote  4R-OL-4C 
+HUM H333 Representations of Reality 4R-OL-4C 
+HUM H334 Gender, Work &amp; Popular Culture  4R-OL-4C 
+HUM H337 Latin American Fiction: The Boom &amp; Beyond  0  4R-OL-4C
+HUM H338 Contemporary Arabic Literature in Translation 4R-OL-4C 
+HUM H340 Ethics in Human Communication 4R-OL-4C 
+HUM H345 Presidential Election Rhetoric 4R-OL-4C 
+HUM H379 Japanese Culture 4R-OL-4C 
+HUM H380 Literature and Human Rights in Latin America  4R-OL-4C 
+HUM H386 Hispanic Culture and Civilization: Latin America 4R-OL-4C 
+HUM H387 Hispanic Culture and Civilization: Spain 4R-OL-4C 
+HUM H390 Saints, Sinners, and Swords: Medieval European Literature  4R-OL-4C 
+HUM H410 Communication Lab Fellow Training 4R-OL-4C 
+HUM H412 Contemporary Germany 4R-OL-4C 
+HUM H470 Japanese Media 4R-OL-4C 
+IA 236 Communicating STEM to a Public Audience 4R-OL-4C 
+IA 237 Introduction to Drama 4R-OL-4C 
+IA 299 Introduction to Theater Arts 4R-OL-4C 
+JAPN L111 Japanese Language and Culture I 4R-OL-4C F
+JAPN L112 Japanese Language and Culture II 4R-OL-4C W
+JAPN L113 Japanese Language and Culture III 4R-OL-4C S
+JAPN L211 Japanese Language and Culture IV 4R-OL-4C F
+JAPN L212 Japanese Language and Culture V 4R-OL-4C W
+JAPN L311 Japanese Language and Culture VII 4R-XL-4C S (Through Study Abroad Program)
+JAPN L312 Japanese Language and Culture VIII 4R-XL-4C S (Through Study Abroad Program)
+JAPN L313 Japanese Language and Culture IX 4R-XL-4C S (Through Study Abroad Program)
+JAPN L411 Japanese Language and Culture X 4R-0L-4C S (Through Study Abroad Program)
+JAPN L412 Japanese Language and Culture XI 4R-0L-4C S (Through Study Abroad Program)
+JAPN L413 Japanese Language and Culture XII 4R-0L-4C S (Through Study Abroad Program)
+JP 213 Japanese Language and Culture VI 4R-OL-4C S
+MUSI H100 Music Performance 1R-0L-1R 
+MUSI H101 Music Theory I: Fundamentals of Tonal Music 4R-OL-4C 
+MUSI H102 Music Theory II: Basic Form and Composition 4R-OL-4C 
+MUSI H201 Early European Music (Before 1650) 4R-OL-4C 
+MUSI H202 Baroque, Classical, Romantic Music 4R-0L-4C 
+MUSI H203 Modernist and Postmodernist Music 4R-0L-4C 
+MUSI H204 Popular Music and Recorded Sound  4R-0L-4C 
+MUSI H301 Musics of the Global South 4R-OL-4C 
+PHIL H101 Introduction to Philosophy 4R-OL-4C 
+PHIL H102 Critical Thinking and Introduction to Logic 4R-OL-4C 
+PHIL H201 Bioethics 4R-OL-4C 
+PHIL H202 Business &amp; Engineering Ethics 4R-OL-4C 
+PHIL H301 Philosophy of Religion 4R-OL-4C 
+PHIL H302 Political Philosophy 4R-OL-4C 
+PHIL H401 Philosophy of Mind 4R-OL-4C 
+PHIL H402 Philosophy of Science  4R-OL-4C 
+PHIL H403 Human Nature 4R-OL-4C 
+POLS S101 American Politics and Government 4R-OL-4C 
+POLS S102 International Relations 4R-OL-4C 
+POLS S103 Comparative Politics 4R-OL-4C 
+POLS S200 Politics of the Global Economy 4R-OL-4C 
+POLS S301 European Politics &amp; Government 4R-OL-4C 
+POLS S303 The European Union 4R-OL-4C 
+POLS S304 British Politics &amp; Government 4R-OL-4C 
+POLS S400 Seminar on America's Future 4R-OL-4C 
+PSYC S100 Introduction to Psychology 4R-OL-4C 
+PSYC S210 Cognitive Psychology 4R-OL-4C 
+PSYC S220 Social Psychology 4R-OL-4C 
+PSYC S230 Moral Psychology 4R-OL-4C 
+PSYC S240 Abnormal Psychology 4R-OL-4C 
+PSYC S310 Studying Human Behavior 4R-OL-4C 
+PSYC S410 Computational Psychology 4R-OL-4C 
+RELG H101 Introduction to Religious Studies 4R-OL-4C 
+RELG H201 Nature and Religion 4R-OL-4C 
+RELG H212 Introduction to Religious Ethics 4R-OL-4C 
+RELG H250 Religion and Literature 4R-OL-4C 
+RELG H310 Religions and Empires 4R-OL-4C 
+RELG H311 Women, Religion and Power 4R-OL-4C 
+RELG H342 Christian Antislavery in UK  4R-OL-4C 
+RH 131 Rhetoric &amp; Composition 4R-OL-4C 
+RH 330 Technical &amp; Professional Communication 4R-OL-4C 
+SOC S101 Introduction to Sociology 4R-OL-4C 
+SPAN L111 Spanish Language and Culture I 4R-OL-4C F
+SPAN L112 Spanish Language and Culture II 4R-OL-4C W
+SPAN L113 Spanish Language and Culture III 4R-OL-4C S
+SPAN L211 Spanish Language and Culture IV 4R-OL-4C F
+SPAN L212 Spanish Language and Culture V 4R-OL-4C W
+SPAN L213 Spanish for Engineers 4R-OL-4C S

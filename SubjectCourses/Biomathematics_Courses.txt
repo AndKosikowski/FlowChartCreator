@@ -1,0 +1,44 @@
+BMTH 199 Professional Experience 1R-0L-1C 
+Prerequisities: 
+Corequisites: />
+
+BMTH 295 Research Seminar in Biomathematics 1R-0L-1C  Arranged
+Prerequisities: 
+Corequisites: />
+
+BMTH 301 Introduction to Biomathematics: Continuous Models  4R-0L-4C (even years) S
+Prerequisities: 
+Corequisites: >MA 212</a> or                             
+
+BMTH 302 Introduction to Biomathematics: Discrete Models  4R-0L-4C (odd years) S
+Prerequisities: 
+Corequisites: >MA 275</a>                          <br/>
+
+BMTH 311 Systems Biology 4R-0L-4C F (even years)
+Prerequisities: 
+Corequisites: >MA 212</a> or                             
+
+BMTH 312 Bioinformatics 4R-0L-4C  W (even years)
+Prerequisities: 
+Corequisites: >CSSE 120</a>, and                             
+
+BMTH 413 Computational Biology 4R-0L-4C W (odd years)
+Prerequisities: 
+Corequisites: >MA 332</a>, and either                             
+
+BMTH 490 Topics in Biomathematics Variable Credit 
+Prerequisities: 
+Corequisites: />
+
+BMTH 496 Capstone Experience I 2C F
+Prerequisities: 
+Corequisites: />
+
+BMTH 497 Capstone Experience II 4C W
+Prerequisities: 
+Corequisites: >BMTH 496</a>                          <br/>
+
+BMTH 498 Capstone Experience III 2C S
+Prerequisities: 
+Corequisites: >BMTH 497</a>                          <br/>
+

@@ -1,0 +1,48 @@
+CSSE 120 Introduction to Software Development	
+MA 111 Calculus I
+PH 111 Physics I
+RH 131 Rhetoric & Composition	
+RHIT 100 Foundations for Rose-Hulman Success
+CSSE 220 Object-Oriented Software Development
+MA 112 Calculus II
+PH 112 Physics II
+HSS	Elective
+CSSE 132 Inroduction to Computer Systems
+MA 113 Calculus III
+CHEM 111 General Chemistry I
+HSSA Elective
+CSSE 280 Intro to Web Programming
+GE 111 German Language and Culture I
+MA 221 Matrix Algebra & Differential Equations I
+CSSE 230 Data Structures & Algorithm Analysis
+CSSE 304 Programming Language Concepts
+RH 330 Technical & Professional Communication
+GE 112 German Language & Culture II
+MA 276 Introduction to Proofs
+MA 374 Combinatorics
+GE 113 German Language and Culture III
+MA 381 Introduction to Probability with Statistical Applications
+CSSE 333 Database Systems
+(CSSE225) Programming 3
+(CSSE371) Software Project
+(CSSE400) Seminar
+(CSSE Elective) Special Subject A (Module 1)
+(HSS Elective) Technical German
+(ECE233)	Digital Systems
+(CSSE212) Hardware-oriented Programming
+(CSSE332) Operating Systems
+(CSSE374) Software Engineering
+(CSSE432) Computer Networks
+(CSSE Elective) Special Subject A (Module 2)
+Free Elective
+CSSE 494 Senior Thesis I
+MA371 Linear Algebra I or  MA373 Applied Linear Algebra for Engrs
+Science Elective
+CSSE 232 Computer Architecture I
+CSSE 495 Senior Thesis II
+CSSE/MA 473 Design and Analysis of Algorithms
+HSS	Elective
+Free	Elective
+CSSE 496 Senior Thesis III
+CSSE/MA 474 Theory of Computation
+Free Elective

@@ -1,0 +1,46 @@
+ENGD 100 Engineering Design Studio I
+MA 111 Calculus I
+RHIT 100 Foundations for Rose-Hulman Success
+PH 111 Physics I
+ENGD 110 Engineering Design Studio II
+PH 112 Physics II
+MA 112 Calculus II
+ENGD 205 Systems Accounting and Modeling I
+ENGD 120 Engineering Design Studio III
+MA 113 Calculus III
+ENGD 150 Independent Study
+ENGD 215 Systems Accounting and Modeling II
+BE 204 Mechanics of Materials
+MA 211 Differential Equations
+ENGD 240 Engineering Design Studio IV
+BE 202 Circuits, Sensors, and Measurements
+ENGD 250 Engineering Design Studio V
+MA 223 Statistics
+ENGD 270 Vertically Integrated Project I
+CHEM 111 General Chemistry I
+CHEM 111L General Chemistry I Lab
+ENGD 260 Engineering Design Studio VI
+ENGD 271 Vertically Integrated Project II
+MA 212 	Matrix Algebra and Systems of Differential Equations
+CONC Concentration 1
+ENGD 300 Engineering Design Practicum I
+ENGD 301 Engineering Design Practicum II
+Concentration Courses 2
+Concentration Courses 3
+HSSA Elective
+HSSA Elective
+ENGD 302 Engineering Design Practicum III
+ENGD 303 Engineering Design Practicum IV
+MDS 410 Multidisciplinary Capstone Design I
+CONC Concentration 4
+HSSA Elective
+BIO Appropriate Biology Elective with lab
+IA 229 Social Capstone
+MDS 420 Multidisciplinary Capstone Design II
+HSSA Elective
+CONC Concentration 5
+MA/SCI Math/Science Elective
+MDS 430 Multidisciplinary Capstone Design III
+HSSA Elective
+CONC Concentration 6
+MA/SCI Math/Science Elective

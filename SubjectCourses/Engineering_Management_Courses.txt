@@ -1,0 +1,272 @@
+EMGT 100 Introduction to Entrepreneurship 4R-0L-4C   
+Prerequisities: 
+Corequisites: />
+
+EMGT 152 Economic Thinking for Entrepreneurs 1R-0L-1C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 175 Personal Finance 4R-0L-4C   
+Prerequisities: 
+Corequisites: />
+
+EMGT 197 Special Topics in Engineering Management (1-4)R-0L-(1-4)C   F, W, S
+Prerequisities: 
+Corequisites: />
+
+EMGT 330 Introduction to Engineering Management 4R-0L-4C Undergraduate Only 
+Prerequisities: 
+Corequisites: />
+
+EMGT 335 Design and Value Creation 4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 397 Special Topics in Engineering Management (1-4)R-0L-(1-4)C   F, W, S
+Prerequisities: 
+Corequisites: />
+
+EMGT 401 Multidisciplinary, Entrepreneurial Design I: Capture the Vision 3R-XL-4C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 402 Multidisciplinary, Entrepreneurial Design II: Expand the Concept 2R-XL-XC 
+Prerequisities: 
+Corequisites: >EMGT 401</a>                              or consent of instructor
+
+EMGT 403 Multidisciplinary, Entrepreneurial Design III: Deliver the Product 2R-XL-XC 
+Prerequisities: 
+Corequisites: >EMGT 402</a>                              or consent of instructor
+
+EMGT 427 Project Management 4R-0L-4C  Undergraduate Only 
+Prerequisities: 
+Corequisites: />
+
+EMGT 432 Technical Entrepreneurship 4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 445  Quality Methods  4R-0L-4C   
+Prerequisities: 
+Corequisites: >MA 223</a> or                             
+
+EMGT 446  Statistical Methods in Six Sigma  4R-0L-4C   
+Prerequisities: 
+Corequisites: >MA 223</a> or                             
+
+EMGT 447  Six Sigma in Practice  4R-0L-4C   
+Prerequisities: 
+Corequisites: >EMGT 446 </a> or                              consent of instructor.
+
+EMGT 462 Risk Analysis and Management 4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 464 Systems Architecture  4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 467 Economic Analysis of Engineering Projects  4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 472 Reliability Engineering  4R-0L-4C     
+Prerequisities: 
+Corequisites: >MA 381</a> or                              consent of instructor.
+
+EMGT 481 Multi-Objective Optimization  4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 484 Systems Thinking and Evaluation  4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 486 Introduction to Supply Chain Management 4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 497 Special Topics in Engineering Management (1-4)R-0L-(1-4)C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 511 Graduate Seminar I 1R-0L-1C F
+Prerequisities: 
+Corequisites: />
+
+EMGT 512 Graduate Seminar II 1R-0L-1C W
+Prerequisities: 
+Corequisites: />
+
+EMGT 513 Graduate Seminar III 1R-0L-1C S
+Prerequisities: 
+Corequisites: />
+
+EMGT 514 Graduate Seminar IV 1R-0L-1C Summer
+Prerequisities: 
+Corequisites: />
+
+EMGT 520 Accounting for Technical Managers 4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 521 Financial Management in a Technical Environment 4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 522 Leadership &amp; Organizational Culture 4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 523 Marketing in New Product Development 4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 524 Production/Operations Management 4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 525 Human Resources Management 4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 526 Innovation Management &amp; Forecasting 4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 527 Project Management 4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 529 Organizational Behavior 4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 531 Economics for Technical Managers 4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 532 Technical Entrepreneurship 4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 533 Intercultural Communication 4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 534 Management Science 4R-OL-4C F
+Prerequisities: 
+Corequisites: />
+
+EMGT 535 Strategy and Globalization 4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 536 Leadership and Global Challenges 4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 537 Facilities Management 4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 538 Product Realization 4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 540 Human Factors 4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 541 Work Analysis and Design 4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 542 Measuring User Experience 4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 551 Intellectual Property for Engineers and Scientists 4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 552 Business Law for Technical Managers 4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 561 Failures of Engineered Systems 4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 562 Risk Analysis and Management  4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 564 Systems Architecture  4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 567 Economic Analysis of Engineering Projects  4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 570 Lean Six Sigma 4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 571 Operations Research for Technical Managers 4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 581 Multi-Objective Optimization 4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 583 Management Information Systems 4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 584 Systems Thinking and Evaluation  4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 585 Statistics for Technical Managers 4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 586 Supply Chain Management 4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 587 Systems Engineering 4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 588 Quality Management 4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 589 Manufacturing Systems 4R-0L-4C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 590 Integrated Project as assigned; however, not more than 8 credits can be applied to MS degree requirements 
+Prerequisities: 
+Corequisites: />
+
+EMGT 597 Special Management Topics in Engineering Management (1-4)R-0L-(1-4)C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 598 Special Technical Topics in Engineering Management (1-4)R-0L-(1-4)C 
+Prerequisities: 
+Corequisites: />
+
+EMGT 699 Professional Experience 1R-0L-1C 
+Prerequisities: 
+Corequisites: />
+
+EMGT ESC Escalate Program Participant 0C 
+Prerequisities: 
+Corequisites: />
+

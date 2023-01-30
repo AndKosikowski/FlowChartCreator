@@ -1,0 +1,156 @@
+OE 171 Photography and Holography 2R-0L-2C F
+Prerequisities: 
+Corequisites: />
+
+OE 172 Lasers and Fiber Optics 2R-0L-2C S
+Prerequisities: 
+Corequisites: />
+
+OE 199 Professional Experience 1R-0L-1C 
+Prerequisities: 
+Corequisites: />
+
+OE 280 Geometrical Optics 3.5R-1.5L-4C W
+Prerequisities: 
+Corequisites: >PH 113</a>                          <br/>
+
+OE 290 Directed Research Arranged 
+Prerequisities: 
+Corequisites: />
+
+OE 295 Photonic Devices &amp; Systems 3.5R-1.5L-4C S
+Prerequisities: 
+Corequisites: >PH 113</a>, and either                             
+
+OE 360 Optical Materials 4R-0L-4C W (every other year) 
+Prerequisities: 
+Corequisites: >PH 255</a>, and                             
+
+OE 392 Linear Optical Systems 4R-0L-4C F
+Prerequisities: 
+Corequisites: >PH 292</a>, and either                             
+
+OE 393 Fiber Optics &amp; Applications 3.5R-1.5L-4C W (every other year)
+Prerequisities: 
+Corequisites: >OE 295</a>, and either                             
+
+OE 395 Optomechanics &amp; Optical Engineering Lab 2R-6L-4C F
+Prerequisities: 
+Corequisites: >PH 292</a>, and                             
+
+OE 415 Optical Engineering Design I 2R-6L-4C S
+Prerequisities: 
+Corequisites: >OE 280</a> or                             
+
+OE 416 Optical Engineering Design II  2R-6L-4C F
+Prerequisities: 
+Corequisites: >OE 415</a>                          <br/>
+
+OE 417 Optical Engineering Design III 2R-6L-4C W
+Prerequisities: 
+Corequisites: >OE 416</a>                          <br/>
+
+OE 431 Advanced Observational Astronomy 1R-3L-2C S
+Prerequisities: 
+Corequisites: >PH 231</a>, and either                             
+
+OE 434 Non-Imaging Optics 4R-0L-4C S  (every other year)
+Prerequisities: 
+Corequisites: >OE 295</a>                          <br/>
+
+OE 435 Biomedical Optics 4R-0L-4C W
+Prerequisities: 
+Corequisites: >PH 113</a>, and either                             
+
+OE 437 Introduction to Image Processing 3R-3L-4C W
+Prerequisities: 
+Corequisites: >MA 212</a> or                             
+
+OE 450 Laser Systems &amp; Applications 3.5R-1.5L-4C S
+Prerequisities: 
+Corequisites: >PH 292</a>, and either                             
+
+OE 470 Special Topics in Optical Engineering 2-4C 
+Prerequisities: 
+Corequisites: />
+
+OE 480 Optical System Design 4R-0L-4C F
+Prerequisities: 
+Corequisites: >OE 280</a>                          <br/>
+
+OE 490 Directed Research 1-4C 
+Prerequisities: 
+Corequisites: />
+
+OE 493 Fundamentals of Optical Fiber Communications 3.5R-1.5L-4C S (every other year)
+Prerequisities: 
+Corequisites: >OE 393</a>                          <br/>
+
+OE 495 Optical Metrology 3.5R-1.5L-4C W
+Prerequisities: 
+Corequisites: >OE 280</a>, and                             
+
+OE 497 Senior Thesis 1-2C F
+Prerequisities: 
+Corequisites: />
+
+OE 498 Senior Thesis 1-2C W
+Prerequisities: 
+Corequisites: />
+
+OE 499 Senior Thesis 1-2C S
+Prerequisities: 
+Corequisites: />
+
+OE 520 Principles of Optics 2R-0L-2C F
+Prerequisities: 
+Corequisites: />
+
+OE 535 Biomedical Optics 4R-0L-4C W
+Prerequisities: 
+Corequisites: >PH 113</a>, and                             
+
+OE 537 Advanced Image Processing 3R-3L-4C S
+Prerequisities: 
+Corequisites: >CSSE 120</a> or                             
+
+OE 570 Special Topics in Optics 2 or 4C  F,W,S
+Prerequisities: 
+Corequisites: />
+
+OE 580 Optical System Design 4R-0L-4C F
+Prerequisities: 
+Corequisites: >OE 280</a> and                              and Senior or Graduate standing
+
+OE 584 Medical Imaging Systems 4R-0L-4C S
+Prerequisities: 
+Corequisites: >OE 392*</a> or                             
+
+OE 585 Electro-Optics and Applications 3R-3L-4C W
+Prerequisities: 
+Corequisites: >PH 292</a>, and                             
+
+OE 592 Fourier Optics &amp; Applications 3.5R-1.5L-4C W
+Prerequisities: 
+Corequisites: >OE 392</a>                              and Senior or Graduate standing
+
+OE 593 Fundamentals of Optical Fiber Communications 3.5R-1.5L-4C S  (every other year)
+Prerequisities: 
+Corequisites: >OE 393</a> and                              Senior or Graduate Standing
+
+OE 594 Integrated Silicon Photonics 3.5R-1.5L-4C F
+Prerequisities: 
+Corequisites: >OE 393</a>                              and Senior or Graduate standing
+
+OE 595 Optical Metrology 3.5R-1.5L-4C W
+Prerequisities: 
+Corequisites: >OE 280</a>,                             
+
+OE 599 Thesis Research 1-4C 
+Prerequisities: 
+Corequisites: />
+
+OE 699 Professional Experience 1R-0L-1C 
+Prerequisities: 
+Corequisites: />
+

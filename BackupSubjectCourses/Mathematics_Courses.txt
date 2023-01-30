@@ -1,0 +1,89 @@
+MA 101 Introduction to Engineering Mathematics 4R-1L-4C F
+MA 102 Introduction to Engineering Mathematics II 4R-1L-4C W
+MA 103 Applied Multivariate Calculus 4R-1L-4C   S
+MA 111 Calculus I 5R-0L-5C F,W
+MA 112 Calculus II 5R-0L-5C F,W,S
+MA 113 Calculus III 5R-0L-5C F,W,S
+MA 190 Contemporary Mathematical Problems 2R-0L-2C S
+MA 200 Career Preparation 1R-0L-1C W
+MA 201  Applied Dynamical Systems I    4R-1L-4C F
+MA 202 Applied Dynamical Systems II 4R-1L-4C W
+MA 211 Differential Equations 4R-0L-4C F,W,S
+MA 212 Matrix Algebra &amp; Systems of Differential Equations 4R-0L-4C F,W,S
+MA 223 Engineering Statistics I 4R-0L-4C F,W,S
+MA 275 Discrete &amp; Combinatorial Algebra I  4R-0L-4C F,W
+MA 276 Introduction to Proofs  4R-0L-4C Arranged
+MA 323 Geometric Modeling 4R-0L-4C W (Even years)
+MA 325 Fractals and Chaotic Dynamical Systems 4R-0L-4C Arranged
+MA 327 Low Dimensional Topology 4R-0L-4C W (odd years)
+MA 330 Vector Calculus 4R-0L-4C F,S
+MA 332 Introduction to Computational Science 4R-0L-4C F,W
+MA 335 Introduction to Parallel Computing 4R-0L-4C S
+MA 336 Boundary Value Problems 4R-0L-4C F,S
+MA 341 Topics in Mathematical Modeling 4R-0L-4C W
+MA 342 Computational Modeling 4R-0L-4C S
+MA 351-6 Problem Solving Seminar  1R-0L-1C F,W,S
+MA 366 Introduction to Real Analysis 4R-0L-4C W
+MA 367 Functions of a Complex Variable 4R-0L-4C S
+MA 371 Linear Algebra I 4R-0L-4C F,S
+MA 373 Applied Linear Algebra for Engineers 4R-0L-4C W
+MA 374 Combinatorics   4R-0L-4C Arranged
+MA 375 Discrete &amp; Combinatorial Algebra II 4R-0L-4C W, S
+MA 376 Abstract Algebra 4R-0L-4C S
+MA 378 Number Theory 4R-0L-4C S
+MA 381 Introduction to Probability with Applications to Statistics 4R-0L-4C F,W,S
+MA 382 Introduction to Statistics with Probability 4R-0L-4C F
+MA 383 Engineering Statistics II 4R-0L-4C F
+MA 384 Data Mining 4R–0L–4C 
+MA 386 Statistical Programming 4R-0L-4C 
+MA 390 Topics in the Mathematics of Engineering 1-2C Arranged 
+MA 415 Machine Learning 4R-0L-4C S
+MA 416 Deep Learning 4R-0L-4C Arranged
+MA 421 Tensor Calculus &amp; Riemannian Geometry 4R-0L-4C Fall (Odd years)
+MA 423 Topics in Geometry 4R-0L-4C Arranged
+MA 430 Topics in Applied Mathematics 4R-0L-4C Arranged
+MA 431 Calculus of Variations 4R-0L-4C Arranged
+MA 433 Numerical Analysis 4R-0L-4C W
+MA 434 Topics in Numerical Analysis 4R-0L-4C Arranged
+MA 435  Finite Difference Methods 4R-0L-4C W
+MA 436 Introduction to Partial Differential Equations 4R-0L-4C F (even years)
+MA 438 Advanced Engineering Mathematics   4R-0L-4C  W
+MA 439 Mathematical Methods of Image Processing 4R-0L-4C F (Odd years)
+MA 444 Deterministic Models in Operations Research 4R-0L-4C  W
+MA 445 Stochastic Models in Operations Research 4R-0L-4C S (even years)
+MA 446 Combinatorial Optimization 4R-0L-4C S (odd years)
+MA 450 Mathematics Seminar 1R-0L-1C F,W,S
+MA 460 Topics in Analysis 4R-0L-4C Arranged
+MA 461 Topics in Topology 4R-0L-4C Arranged
+MA 466 Introduction to Functional Analysis  4R-0L-4C Arranged
+MA 470 Topics in Algebra 4R-0L-4C Arranged
+MA 471 Linear Algebra II 4R-0L-4C S (even years)
+MA 473 Design &amp; Analysis of Algorithms  4R-0L-4C W
+MA 474 Theory of Computation 4R-0L-4C S
+MA 475 Topics in Discrete Mathematics 4R-0L-4C Arranged
+MA 476 Algebraic Codes  4R-0L-4C S (odd years)
+MA 477 Graph Theory 4R-0L-4C S (even years)
+MA 478 Topics in Number Theory 4R-0L-4C Arranged
+MA 479 Cryptography 4R-0L-4C S
+MA 480 Topics in Probability or Statistics 4R-0L-4C Arranged
+MA 481 Mathematical Statistics 4R-0L-4C W (even years)
+MA 482 Biostatistics 4R-0L-4C S
+MA 483 Bayesian Data Analysis  4R-0L-4C W (Odd years)
+MA 485 Applied Linear Regression  4R-0L-4C W (odd years)
+MA 487 Design of Experiments 4R-0L-4C W (even years)
+MA 490 Topics in Mathematics Variable credit 
+MA 491 Introduction to Mathematical Modeling 2C F
+MA 492 Senior Project I  2C F
+MA 493 Senior Project II 2C F,W
+MA 494 Senior Project III  2C W,S
+MA 495 Research Project in Mathematics Variable Credit 
+MA 496 Senior Thesis I 4C F
+MA 497 Senior Thesis II 2C F,W
+MA 498 Senior Thesis III 2C W,S
+MA 534 Management Science 4R-0L-4C F (even years)
+MA 538 Advanced Engineering Mathematics 4R-0L-4C  W
+MA 580 Topics in Advanced Probability Theory &amp; Its Applications 4R-0L-4C Arranged
+MA 581 Topics in Advanced Statistics 4R-0L-4C Arranged
+MA 590 Graduate Topics in Mathematics Variable Credit 
+MA CPT Curricular Practical Training 1R-0L-1C 
+MAFTC Calculus I, Calculus II, Calculus III - Fast Track Calculus 15R-0L-15C 

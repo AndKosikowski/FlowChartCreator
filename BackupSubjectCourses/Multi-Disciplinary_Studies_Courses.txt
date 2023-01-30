@@ -1,0 +1,14 @@
+MDS 201 Global Engineering and the Social Context 1R-3L-2C 
+MDS 202 Global Engineering and the Social Context  0R-6L-2C 
+MDS 290 Special Topics in Multidisciplinary Studies 1C-4C Variable 
+MDS 301 Global Engineering for Health 4R-0L-4C 
+MDS 302 Sustainability in Practice 2R-0L-2C 
+MDS 310 Appropriate Technology for Developing Communities  4R-0L-4C  F
+MDS 390 Special Topics in Multidisciplinary Studies   1C-4C Variable 
+MDS 401 Independent Project/Research Opportunities Seminar 1R-0L-1C F,W,S
+MDS 402 Seminar in Sustainability 2R-0L-2C 
+MDS 410 Multidisciplinary Capstone I 2R-3L-4C F
+MDS 420 Multidisciplinary Capstone II 2R-3L-4C W
+MDS 430 Multidisciplinary Capstone III 2R-3L-4C S
+MDS 440 Systems Engineering Capstone  2R-0L-2C  
+MDS 490 Special Topics in Multidisciplinary Studies 1C-4C Variable 

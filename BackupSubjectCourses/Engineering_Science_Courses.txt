@@ -1,0 +1,9 @@
+ES 201 Conservation &amp; Accounting Principles 4R-0L-4C F,W
+ES 202 Fluid Systems 2 2/3R-1L-3C  W,S
+ES 203 Electrical Systems 3R-3L-4C F,W,S
+ES 204 Mechanical Systems 2 2/3R-1L-3C W,S
+ES 205 Analysis &amp; Design of Engineering Systems 3R-3L-4C S,F
+ES 212 Fluid Systems  3R-3L-4C W,S
+ES 213 Electrical Systems 3R-0L-3C 
+ES 213L Electrical Systems Lab 0R-3L-1C 
+ES 214 Mechanical Systems  3R-1L-4C  W,S

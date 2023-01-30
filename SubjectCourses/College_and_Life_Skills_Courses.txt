@@ -1,0 +1,4 @@
+RHIT 100 Foundations for Rose-Hulman Success 1R-0L-1C  F
+Prerequisities: 
+Corequisites: />
+

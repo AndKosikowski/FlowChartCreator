@@ -1,0 +1,57 @@
+BE 100 Prob Solving in the Biological Sciences & Engineering
+BE 118 Design Thinking and Communication
+MA 111 Calculus I
+RHIT 100 Foundations for Rose-Hulman Success
+RH 131 Rhetoric and Composition
+BE 121 DC Circuits
+BE 122 Systems Accounting and Modeling I
+BE 128 Design Thinking and Realization
+MA 112 Calculus II
+PH 111 Physics I
+BE 131 AC Circuits
+BE 132 Systems Accounting and Modeling II
+BE 138 Design Thinking and Human-Centered Products
+MA 113 Calculus III
+PH 112 Physics II
+BE 211 Circuits Sensors and Measurements
+BE 218 Design Methodologies
+MA 221 Matrix Algebra & Differential Equations I
+CHEM 111 General Chemistry I
+CHEM 111L General Chemistry Lab
+BE 222 Mechanics of Materials
+BE 228 Design Leadership and Teamwork
+MA 222 Matrix Algebra & Differential Equations II
+CHEM 113 General Chemistry II
+CHEM 113L General Chemistry II Lab
+BIO 110 Cell & Molecular Biology
+BE 232 Biomechanics
+BE 233 Biomaterials
+BE 238 Regulatory Affairs and Product Design
+MA 223 Engineering Statistics
+HSSA Elective
+BE 314 Musculoskeletal Systems Physiology with Applications
+BE 315 Biomedical Engineering Lab I
+BE 318 Medical Device Research and Design
+BIO 130 Ecology and Evolution
+RH330 Technical & Professional Communication
+BE 321 Biosignal Processing
+BE 324 Neural and Endocrine Systems Physiology with Applications
+BE 328 Capstone Design I: Designing Products for the Real World
+HSSA Elective
+BE 334 Cardiovascular, Respiratory and Renal Systems Physiology with Applications
+BE 335 Biomedical Engineering Lab II
+BE 338 Capstone Design II: Product Design and Prototyping
+AIM Elective
+HSSA Elective
+BE 418 Capstone Design III: Product Verification and Validation
+AIM Elective
+AIM Elective
+HSSA Elective
+BE 428 Capstone Design IV: Integrated Product Design and Practice
+AIM Elective
+AIM Elective
+HSSA Elective
+BE 438 Engineering Portfolio Development
+AIM Eective
+HSSA Elective
+HSSA Elective

@@ -1,0 +1,47 @@
+ENGD 100 Design & Communication Studio
+MA 111 Calculus I
+RHIT 100 Foundations for Rose-Hulman Success
+PH 111 Physics I
+ENGD 110 Circuits, Software Development, and Societal Impact Design Studio
+PH 112 Physics II
+MA 112 Calculus II
+ENGD 205 Systems Accounting and Modeling I
+ENGD 120 Integrating Electrical, Software, and Societal Systems
+MA 113 Calculus III
+ENGD 150 Independent Design Project
+ENGD 151 Problem Solving and Data Representation
+ENGD 215 Systems Accounting and Modeling II
+ENGD 260 Product Design Studio
+BE 211 Circuits, Sensors, and Measurements
+MA 223 Statistics
+CHEM 111 General Chemistry I
+CHEM 111 General Chemistry I Lab
+ENGD 240 User Experience Design Studio
+ENGD 270 Vertically Integrated Project I
+MA 221 Matrix Algebra and Differential Equations I
+BE 222 Mechanics of Materials
+ENGD 250 Human-Computer Interface Studio
+ENGD 271 Vertically Integrated Project II
+MA 222 	Matrix Algebra and Differential Equations II
+SPEC Specialization 1
+PRAC Practicum I
+PRAC Practicum II
+Specialization Courses 2
+Specialization Courses 3
+HSSA Elective
+HSSA Elective
+PRAC Practicum III
+PRAC Practicum IV
+MDS 410 Multidisciplinary Capstone Design I
+SPEC Specialization 4
+HSSA Elective
+BIO Appropriate Biology Elective with lab
+HUMH 230 Engineering Design Social Capstone
+MDS 420 Multidisciplinary Capstone Design II
+HSSA Elective
+SPEC Specialization 5
+MA/SCI Math/Science Elective
+MDS 430 Multidisciplinary Capstone Design III
+HSSA Elective
+SPEC Specialization 6
+MA/SCI Math/Science Elective

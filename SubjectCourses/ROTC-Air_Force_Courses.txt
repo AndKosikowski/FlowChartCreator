@@ -1,0 +1,96 @@
+AS 101 Foundations of the United States Air Force I 1R-2L-1C F
+Prerequisities: 
+Corequisites: />
+
+AS 101L Leadership Laboratory  - F,W,S
+Prerequisities: 
+Corequisites: >AS 101*</a> or                             
+
+AS 102 Foundations of the United States Air Force II  1R-2L-1C W
+Prerequisities: 
+Corequisites: >AS 101</a>                              or consent of instructor
+
+AS 102L Leadership Laboratory  - F,W,S
+Prerequisities: 
+Corequisites: >AS 101*</a> or                             
+
+AS 103 Foundations of the United States Air Force III 1R-2L-1C W
+Prerequisities: 
+Corequisites: >AS 102</a>                              or consent of instructor
+
+AS 103L Leadership Laboratory  - F,W,S
+Prerequisities: 
+Corequisites: >AS 101*</a> or                             
+
+AS 201 The Evolution of Air and Space Power I 2R-3L-2C F
+Prerequisities: 
+Corequisites: >AS 103</a>                              or consent of instructor
+
+AS 201L Leadership Laboratory  0 F,W,S
+Prerequisities: 
+Corequisites: >AS 201*</a> or                             
+
+AS 202 The Evolution of Air and Space Power II  2R-3L-2C W
+Prerequisities: 
+Corequisites: >AS 201</a>                              or consent of instructor
+
+AS 202L Leadership Laboratory  0 F,W,S
+Prerequisities: 
+Corequisites: >AS 201*</a> or                             
+
+AS 203 The Evolution of Air and Space Power III 2R-3L-2C S
+Prerequisities: 
+Corequisites: >AS 202</a>                              or consent of instructor
+
+AS 203L Leadership Laboratory  0 F,W,S
+Prerequisities: 
+Corequisites: >AS 201*</a> or                             
+
+AS 301 Air Force Leadership Studies I  3R-3L-4C F
+Prerequisities: 
+Corequisites: />
+
+AS 301L Leadership Laborator - F,W,S
+Prerequisities: 
+Corequisites: >AS 301*</a> or                             
+
+AS 302 Air Force Leadership Studies II 3R-3L-4C W
+Prerequisities: 
+Corequisites: >AS 301</a>                          <br/>
+
+AS 302L Leadership Laborator - F,W,S
+Prerequisities: 
+Corequisites: >AS 301*</a> or                             
+
+AS 303 Air Force Leadership Studies III 3R-3L-4C S
+Prerequisities: 
+Corequisites: >AS 302</a>                          <br/>
+
+AS 303L Leadership Laborator - F,W,S
+Prerequisities: 
+Corequisites: >AS 301*</a> or                             
+
+AS 401 National Security Affairs and Preparation for Active Duty I 3R-3L-4C F
+Prerequisities: 
+Corequisites: >AS 303</a>                          <br/>
+
+AS 401L Leadership Laboratory - F,W,S
+Prerequisities: 
+Corequisites: >AS 401*</a> or                             
+
+AS 402 National Security Affairs and Preparation for Active Duty II 3R-3L-4C W
+Prerequisities: 
+Corequisites: >AS 401</a>                          <br/>
+
+AS 402L Leadership Laboratory - F,W,S
+Prerequisities: 
+Corequisites: >AS 401*</a> or                             
+
+AS 403 National Security Affairs &amp; Preparation for Active Duty III 3R-3L-4C S
+Prerequisities: 
+Corequisites: >AS 402</a>                          <br/>
+
+AS 403L Leadership Laboratory - F,W,S
+Prerequisities: 
+Corequisites: >AS 401*</a> or                             
+

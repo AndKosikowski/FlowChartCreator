@@ -1,0 +1,110 @@
+CHEM 111 General Chemistry I
+RHIT 100 Foundations for Rose-Hulman Success
+MA 111 Calculus I
+RH 131 Rhetoric & Composition
+CHEM 113 General Chemistry II
+MA 112 Calculus II
+PH 111 Physics I
+HSSA Elective
+CHE 110 Programming & Computation for Chemical Engineers	
+CHEM 115 General Chemistry III
+EM 103 Introduction to Design
+MA 113 Calculus III
+PH 112 Physics II
+CHE 200	Career Preparation I
+CHE 201 Conservation Principles & Balances
+CHEM 251 Organic Chemistry I   
+CHEM 251L Organic Chemistry I Lab
+MA 221	Matrix Algebra & Differential Equations I
+HSSA Elective
+CHE 202	Basic Chemical Process  Calculations
+CHEM 252 Organic Chemistry II
+CHEM 252L Organic Chemistry II Lab
+MA 222 Matrix Algebra & Differential Equations II
+HSSA Elective
+CHE 301 Fluid Mechanics
+CHE 303 Chemical Engineering Thermodynamics
+MA 223 Engineering Statistics I
+HSSA Elective
+CHE 304 Multi-Component Thermodynamics
+CHE 320 Fundamentals of Heat and Mass Transfer
+CHE 315 Materials Science
+CHEM 225 Analytical Chemistry I
+CHE 321 Applications of Heat & Mass Transfer	
+CHEM 360 Intro Physical Chemistry
+CHE 340 Process Control
+RH 330 Technical and Professional Communication
+CHE 404	Kinetics & Reactor Design
+CHE 411	Chemical Engineering Lab I
+ES 213 Electrical Systems
+ES 213L Electrical Systems Lab
+Elective (Free)
+CHE 409	Professional Practice
+CHE 412	Chemical Engineering Lab II
+CHE 416	Design I
+Elective (Free)
+Elective (CHE)
+CHE 413 Chemical Eng. Lab III
+CHE 417 Design II
+Elective (Approved)
+HSSA Elective
+CHE 418	Design III
+HSSA Elective
+HSSA Elective
+Elective(Approved)
+Elective(CHE)
+CHEM 111 General Chemistry I*
+RHIT 100 Foundations for Rose-Hulman Success
+MA 111 Calculus I
+RH 131 Rhetoric & Composition
+CHEM 113 General Chemistry II*
+MA 112 Calculus II
+PH 111 Physics I
+HSSA Elective
+CHE 110 Programming & Computation for Chemical Engineers
+CHEM 115 General Chemistry III
+EM 103 Introduction to Design
+MA 113 Calculus III
+PH 112 Physics II
+CHE 200	Career Preparation I
+CHE 201	Conservation Principles  and Balances
+CHEM 251 Organic Chemistry I   
+CHEM 251L Organic Chemistry I Lab
+MA 221 Matrix Algebra & Differential Equations I
+HSSA Elective
+CHE 202	Basic Chemical Process  Calculations
+CHEM 252 Organic Chemistry II 
+CHEM 252L Organic Chemistry II Lab
+MA 222 Matrix Algebra & Differential Equations II
+HSSA Elective
+MA 223 Engineering Statistics I
+CHEM 225 Analytical Chemistry I
+HSSA Elective
+CHE 315 Materials Science
+CHE 301 Fluid Mechanics
+CHE 303 Chemical Engineering Thermodynamics
+CHE 340 Process Control
+RH 330 Technical & Professional Communication
+CHE 304	Multi-Component Thermodynamics
+CHE 320 Fundamentals of Heat & Mass Transfer
+ES 213 Electrical Systems
+ES 213L Electrical Systems Lab
+HSSA Elective
+CHE 321 Applications of Heat & Mass Transfer
+CHE 411 Chemical Engineering Lab I
+CHEM 360 Intro Physical Chemistry
+Elective (Free)
+CHE 404 Kinetics & Reactor Design
+CHE 409 Professional Practice
+CHE 412 Chemical Engineering Lab II	
+CHE 416 Design I
+Elective (Free)
+CHE 413 Chemical Eng. Lab III	
+CHE 417 Design II
+Elective (Approved)
+HSSA Elective
+CHE 418	Design III
+HSSA Elective
+Elective(CHE)
+Elective(CHE)
+Elective(Approved)

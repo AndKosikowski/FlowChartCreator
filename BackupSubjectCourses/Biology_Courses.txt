@@ -1,0 +1,36 @@
+BIO 101 Essential Biology 4R-OL-4C 
+BIO 102 Nutrition 4R-0L-4C 
+BIO 103 Core Biology Advances and Applications   04R-0L-4C   
+BIO 104 Science in Practice 4R-0L-4C 
+BIO 105 Human Health and Disease 4R-0L-4C 
+BIO 110  Cell Structure and Function 3R-3L-4C F,W
+BIO 120 Comparative Anatomy &amp; Physiology 3R-3L-4C S
+BIO 130 Evolution and Diversity 3R-3L-4C F
+BIO 191 Special Topics in Biology XR-0L-XC 
+BIO 205 Cellular Physiology 4R-0L-4C F
+BIO 210 Mendelian &amp; Molecular Genetics 3R-3L-4C F
+BIO 220 Microbiology 3R-3L-4C W
+BIO 230 Cell Biology 3R-3L-4C S
+BIO 310 Plant Structure &amp; Function 3R-3L-4C S
+BIO 320 Ecology 3R-3L-4C F
+BIO 330 Evolutionary Biology 4R-0L-4C W
+BIO 340 Introduction to Biomedical Research: Clinical Methodology 1R-1L-1C 
+BIO 350 Principles of Synthetic Biology 2R-0L-2C W
+BIO 351 Synthetic Biology Design 2R-0L-2C S
+BIO 352 Synthetic Biology Laboratory 4C (studio format, 4 days x 3 hrs) Su1
+BIO 399 Practice of Science 4R-0L-4C 
+BIO 410 Infection and Immunity 4R-0L-4C Arranged
+BIO 411 Genetic Engineering 4R-0L-4C Assigned
+BIO 421 Applied Microbiology 4R-0L-4C Assigned
+BIO 431 Genomics and Proteomics 4R-0L-4C S
+BIO 441 Virology 3R-3L-4C 
+BIO 451 Cancer Biology 4R-0L-4C 
+BIO 461 Evolutionary Medicine 4R-0L-4C Arranged
+BIO 471 Genetic &amp; Molecular Analysis of Inherited Human Disease 4R-0L-4C S
+BIO 491  Special Topics in Biology XR-0L-XC 
+BIO 492 Directed Study in Biology XR-XL-XC 
+BIO 496 Senior Thesis Research I 0R-6L-2C F,W,S
+BIO 497 Senior Thesis Research II  0R-12L-4C F,W,S
+BIO 498 Senior Thesis Research III 0R-12L-4C F,W,S
+BIO 499 Senior Thesis Research IV 0R-6L-2C W
+BIO CPT Curricular Practical Training  1R-0L-1C 

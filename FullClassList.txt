@@ -1,0 +1,53 @@
+CSSE
+120
+Introduction to Programming
+4
+FWS
+Fun fun fun
+none
+none
+none
+
+CSSE
+220
+Next Programming class thing
+4
+FW
+idk neve took
+none
+CSSE 120
+none
+none
+
+MA
+111
+Calculus 1
+5
+FW
+Math stuff
+none
+none
+none
+
+MA
+112
+Calculus 2
+5
+FWS
+Math stuff
+none
+MA 111
+none
+none
+
+MA
+113
+Calculus 3
+5
+FWS
+Math stuff
+none
+MA 112
+none
+none
+

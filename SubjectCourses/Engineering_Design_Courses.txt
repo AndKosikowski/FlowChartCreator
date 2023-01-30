@@ -1,0 +1,132 @@
+ENGD 100  Design and Communication Studio 6R-10L-8C  F
+Prerequisities: 
+Corequisites: />
+
+ENGD 110 Circuits, Software Development, and Societal Impact Design Studio 4R-12L-6C  W
+Prerequisities: 
+Corequisites: />
+
+ENGD 120 Integrating Electrical, Software, and Societal Systems 4R-12L-6C  S
+Prerequisities: 
+Corequisites: >ENGD 110</a>                          <br/>
+
+ENGD 150 Independent Design Project 1R-2L-2C S
+Prerequisities: 
+Corequisites: />
+
+ENGD 151 Problem Solving and Data Representation 0.5R-1.5L-1C F
+Prerequisities: 
+Corequisites: />
+
+ENGD 190  Selected Topics in Engineering Design 1-4C Arranged F,W,S
+Prerequisities: 
+Corequisites: />
+
+ENGD 199 Professional Experience 1R-0L-1C 
+Prerequisities: 
+Corequisites: />
+
+ENGD 200 Systems Accounting and Modeling I 2R-0L-2C W
+Prerequisities: 
+Corequisites: >MA 111</a> or                          <br/>
+
+ENGD 205 Systems Accounting and Modeling I 3R-0L-3C  W
+Prerequisities: 
+Corequisites: >MA 111</a>                          <br/>
+
+ENGD 210 Systems Accounting and Modeling II    4R-0L-4C S
+Prerequisities: 
+Corequisites: >ENGD 200</a> or                             
+
+ENGD 215 Systems Accounting and Modeling II  3R-0L-3C S
+Prerequisities: 
+Corequisites: >ENGD 205</a> or                             
+
+ENGD 240 User Experience Design Studio 4R-12L-6C W
+Prerequisities: 
+Corequisites: >ENGD 120</a>                          <br/>
+
+ENGD 250 Human Computer Interfaces Studio 4R- 12L-6C S
+Prerequisities: 
+Corequisites: >ENGD 240</a>                          <br/>
+
+ENGD 260 Product Design Studio 4R-12L-6C F
+Prerequisities: 
+Corequisites: >ENGD 100 </a> or                              equivalent
+
+ENGD 270 Vertically Integrated Project I  1R-2L-2C W
+Prerequisities: 
+Corequisites: />
+
+ENGD 271 Vertically Integrated Project II 1R-2L-2C S
+Prerequisities: 
+Corequisites: />
+
+ENGD 290  Selected Topics in Engineering Design 1-4C Arranged F,W,S
+Prerequisities: 
+Corequisites: />
+
+ENGD 300 Engineering Practicum I 0R-12L-4C Su
+Prerequisities: 
+Corequisites: >ENGD 260</a>                          <br/>
+
+ENGD 301 Creative Design Practicum 0R-12L-4C F
+Prerequisities: 
+Corequisites: >ENGD 260</a> and                              student must obtain professional employment such as an internship or co-op.
+
+ENGD 302 Human Factors Practicum 0R-12L-4C S
+Prerequisities: 
+Corequisites: >ENGD 260</a>                          <br/>
+
+ENGD 303 Systems Architecture Practicum 0R-12L-4C Su
+Prerequisities: 
+Corequisites: >ENGD 260</a> and                              student must obtain professional employment such as an internship or co-op.
+
+ENGD 304 Material Properties Practicum 2R-0L-2C 
+Prerequisities: 
+Corequisites: >ENGD 260</a> and                              student must obtain professional employment such as an internship or co-op.
+
+ENGD 305 Material Selection Practicum 2R-0L-2C 
+Prerequisities: 
+Corequisites: >ENGD 304</a> or                             
+
+ENGD 306 Parametric &amp; Equation Based Modeling Practicum 2R-0L-2C 
+Prerequisities: 
+Corequisites: >ENGD 260</a>, and either                             
+
+ENGD 307 Curves and Surfaces Practicum 2R-0L-2C 
+Prerequisities: 
+Corequisites: >ENGD 260</a>, and either                             
+
+ENGD 308 Lean Manufacturing Process Fundamental Practicum 2R-0L-2C 
+Prerequisities: 
+Corequisites: >ENGD 260</a>                              student must obtain professional employment such as an internship or co-op.
+
+ENGD 309 Lean Manufacturing Kaizen Fundamentals Practicum 2R-0L-2C 
+Prerequisities: 
+Corequisites: >ENGD 308</a> and                              student must obtain professional employment such as an internship or co-op.
+
+ENGD 310 Design for Assembly Practicum 2R-0L-2C 
+Prerequisities: 
+Corequisites: >ENGD 260</a>, and either                             
+
+ENGD 311 Tolerance Analysis and Application Practicum 2R-0L-2C 
+Prerequisities: 
+Corequisites: >ENGD 260</a>, and either                             
+
+ENGD 312 Design for Sheet Metal Fabrication Practicum 2R-0L-2C 
+Prerequisities: 
+Corequisites: >ENGD 260</a>, and either                             
+
+ENGD 313 Design for Metal Forming Practicum 2R-0L-2C 
+Prerequisities: 
+Corequisites: >ENGD 260</a>, and either                             
+
+ENGD 390  Selected Topics in Engineering Design 1-4C Arranged F,W,S
+Prerequisities: 
+Corequisites: />
+
+ENGD 490  Selected Topics in Engineering Design 1-4C Arranged F,W,S
+Prerequisities: 
+Corequisites: />
+

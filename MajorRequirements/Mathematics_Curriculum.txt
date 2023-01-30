@@ -1,0 +1,51 @@
+MA 111 Calculus I 
+PH 111 Physics I or CHEM 111	General Chemistry I
+RH 131 Rhetoric & Composition or HSSA Elective
+RHIT 100 Foundations for Rose-Hulman Success
+CSSE 120 Introduction to Software Development
+MA 112 Calculus II
+PH 112 Physics II or PH 111 Physics I
+CHEM 111 General Chemistry I or  BIO 101 Essential Biology (or higher level BIO course)
+HSSA Elective or RH 131 Rhetoric Composition
+MA 113 Calculus III
+PH 113 Physics III or PH 112 Physics II
+MA 190 Contemporary Mathematics Problems
+HSSA Elective
+MA 221 Matrix Algebra & Differential Equations I
+MA 276 Introduction to Proofs
+BIO 101 Essential Biology (or higher level BIO course) or PH 113 Physics III
+*CSSE 220 Object-Oriented Software Development
+MA 222 Matrix Algebra & Differential Equations II
+Science Elective
+Technical Elective
+HSSA Elective
+**MA 200	Career Preparation
+MA 381 Introduction to Probability
+MA 371 Linear Algebra I
+Technical Elective
+HSSA Elective
+MA Elective
+Technical Elective
+Technical Elective
+HSSA Elective or RH 330 Technical & Professional Communication
+MA 366 Introduction to Real Analysis
+MA Elective
+Technical Elective
+HSSA Elective or RH 330 Technical & Professional Communication
+MA Elective
+MA Elective
+Technical Elective
+HSSA Elective or RH 330 Technical & Professional Communication
+MA496 Senior Capstone I (4hrs) or MA 491 Intro to Math Modeling (2 hrs.) and MA 496 (2 hrs.)
+Free Elective
+Free Elective
+HSSA Elective
+MA 497 Senior Capstone II (2 hrs.)	
+MA Elective
+Free Elective
+Free Elective
+Free Elective
+MA 498 Senior Capstone III (2 hrs.)
+MA Elective
+Free Elective
+Free Elective

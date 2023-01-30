@@ -1,0 +1,10 @@
+BMTH 295 Research Seminar in Biomathematics 1R-0L-1C  Arranged
+BMTH 301 Introduction to Biomathematics: Continuous Models  4R-0L-4C (even years) S
+BMTH 302 Introduction to Biomathematics: Discrete Models  4R-0L-4C (odd years) S
+BMTH 311 Systems Biology 4R-0L-4C F (even years)
+BMTH 312 Bioinformatics 4R-0L-4C  W (even years)
+BMTH 413 Computational Biology 4R-0L-4C W (odd years)
+BMTH 490 Topics in Biomathematics Variable Credit 
+BMTH 496 Capstone Experience I 2C F
+BMTH 497 Capstone Experience II 4C W
+BMTH 498 Capstone Experience III 2C S

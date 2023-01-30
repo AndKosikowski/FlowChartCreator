@@ -1,0 +1,64 @@
+CE 101 Engineering Surveying 0R-6L-2C F
+CE 111 Geographical Information Systems  2R-0L-2C W
+CE 205 Thermodynamics 4R-0L-4C F
+CE 250 Sustainable Civil Engineering Design 2R-0L-2C W
+CE 303 Engineering Economy 4R-0L-4C W
+CE 310 Computer Applications in Civil Engineering 2R-0L-2C S
+CE 320 Civil Engineering Materials 3R-3L-4C S
+CE 321 Structural Mechanics I 4R-0L-4C F
+CE 336 Soil Mechanics 3R-3L-4C F
+CE 371 Hydraulic Engineering 3R-3L-4C F
+CE 380 Introduction to Transportation Engineering 4R-0L-4C S
+CE 400 Career Preparation Seminar 1R-0L-0C S
+CE 420 Consulting Engineering Seminar 2R-0L-2C S
+CE 421 Structural Mechanics II 4R-0L-4C W
+CE 431 Structural Design in Steel I 3R-0L-3C S
+CE 432 Structural Design in Concrete I 3R-0L-3C W
+CE 436 Foundation Engineering 4R-0L-4C  F
+CE 441 Construction Engineering 2R-0L-2C W
+CE 442 Cost Engineering 4R-0L-4C W
+CE 445 Construction Methods &amp; Equipment 4R-0L-4C  F
+CE 450 Civil Engineering Codes &amp; Regulations 4R-0L-4C F
+CE 460 Introduction to Environmental Engineering 4R-0L-4C S
+CE 461 Environmental Engineering laboratory 1R-3L-2C S
+CE 463 Unit Operations in Environmental Engineering 4R-0L-4C F
+CE 471 Water Resources Engineering 4R-0L-4C W
+CE 480 Geometric Design of Highways and Streets 4R-0L-4C W
+CE 481 Traffic Analysis &amp; Design 4R-0L-4C F
+CE 482 Urban Transportation Planning 4R-0L-4C F or W
+CE 483 Railroad Engineering 4R-0L-4C S
+CE 486 Civil Engineering Design &amp; Synthesis I 1R-3L-2C F
+CE 487 Technical System Design &amp; Synthesis 2R-2L-2C W
+CE 488 Civil Engineering Design &amp; Synthesis II 1R-2L- 2C W
+CE 489 Civil Engineering Design &amp; Synthesis III 1R-3L-2C S
+CE 490 Directed Studies CE 490 Directed Studies 1-4C Arranged F,W,S
+CE 520 Structural Engineering Practicum 0R-12L-4C 
+CE 521 Matrix Methods for Structural Analysis 4R-0L-4C F
+CE 522 Structural Dynamics 4R-0L-4C W
+CE 523 Advanced Solid Mechanics 4R-0L-4C W
+CE 524 Building Design 4R-0L-4C S
+CE 525 Bridge Engineering 4R-0L-4C S
+CE 530 Structural Design in Timber 4R-0L-4C On Demand
+CE 532 Structural Design in Concrete II 3R-3L-4C F
+CE 533 Connections &amp; Detailing 4R-0L-4C S
+CE 534 Structural Design in Masonry 4R-0L-4C On Demand
+CE 535 Structural Design in Prestressed Concrete 4R-0L-4C F
+CE 536 Advanced Soil Mechanics  4R-0L-4C On Demand
+CE 537 Retaining Structure Design 4R-0L-4C W
+CE 562 Advanced Wastewater Treatment 4R-0L-4C 
+CE 563 Advanced Water Treatment 4R-0L-4C 
+CE 564 Aquatic Environmental Chemistry 4R-0L-4C F
+CE 565 Solid &amp; Hazardous Waste Regulation &amp; Treatment 4R-0L-4C On Demand
+CE 566 Environmental Management  4R-0L-4C On Demand
+CE 567 Applied Hydrologic Modeling 4R-0L-4C 
+CE 568 Surface Water Quality Modeling 4R-0L-4C S
+CE 569 Treatability Studies 2R-6L-4C On Demand
+CE 570 Modeling Open Channel Hydraulics 4R-0L-4C W
+CE 571 Environmental River Mechanics 3R-3L-4C S
+CE 573 Groundwater Analysis 4R-0L-4C 
+CE 589 Environmental Engineering Design &amp; Synthesis 4R-12L-8C F,W,S
+CE 590 Special Problems 2/4R-0L-2/4C F,W,S
+CE 597 Special Projects in Civil Engineering Variable Credit F,W,S
+CE 598 Special Topics in Civil Engineering Variable Credit 
+CE 599 Thesis Research As assigned F,W,S
+CE CPT Curricular Practical Training 1R-0L-1C 

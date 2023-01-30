@@ -1,0 +1,22 @@
+EP 180 Engineering at Nanoscale 2R-0L-2C S
+EP 280 Introduction to Nano-engineering 3.5R-1.5L-4C W
+EP 290 Directed Study 1-4C 
+EP 330 Material Failure 3R-3L-4C W
+EP 380 Nanotechnology, Entrepreneurship &amp; Ethics 3.5R-1.5L-4C S
+EP 406 Semiconductor Devices &amp; Fabrication 3R-3L-4C W
+EP 407 Semiconductor Fabrication &amp; Characterization 2R-6L-4C F
+EP 408 Microsensors and Actuators 3R-3L-4C S
+EP 410 Introduction to MEMS: Fabrication &amp; Applications 3R-3L-4C S
+EP 411 Advanced topics in MEMS 3R-3L-4C F
+EP 415 Engineering Physics Design I 2R-6L-4C S
+EP 416 Engineering Physics Design II 2R-6L-4C F
+EP 417 Engineering Physics Design III 2R-6L-4C W
+EP 450 Nanomedicine 4R-0L-4C 
+EP 470 Special Topics in Engineering Physics 2-4C 
+EP 490 Directed Study 1-4C 
+EP 506 Semiconductor Devices &amp; Fabrication 3R-3L-4C W
+EP 507 Semiconductor Fabrication &amp; Characterization 2R-6L-4C F
+EP 508 Microsensors and Actuators 3R-3L-4C S
+EP 510 Introduction to MEMS: Fabrication &amp; Applications 3R-3L-4C S
+EP 511 Advanced topics in MEMS 3R-3L-4C F
+EP CPT Curricular Practical Training 1R-0L-1C 

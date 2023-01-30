@@ -1,0 +1,78 @@
+ECE 160 Engineering Practice 0R-4L-2C F,W
+ECE 180 Introduction to Signal Processing 3R-3L-4C F,W,S
+ECE 203 DC Circuits 3R-3L-4C S, F
+ECE 204  AC Circuits 3R-3L-4C F,W
+ECE 205 Circuits &amp; Systems  3R-3L-4C W,S
+ECE 206 Elements of Electrical Engineering 4R-0L-4C W,S
+ECE 230 Introduction to Embedded Systems 3R-3L-4C W,S
+ECE 233 Introduction to Digital Systems 3R-3L-4C F,W
+ECE 250 Electronic Device Modeling 3R-3L-4C S,F
+ECE 300 Continuous-Time Signals &amp; Systems 3R-3L-4C F,W,S
+ECE 310 Communication Systems 3R-3L-4C F, S
+ECE 312 Communication Networks 4R-0L-4C W
+ECE 320 Linear Control Systems 3R-3L-4C W,S
+ECE 332 Computer Architecture II 4R-0L-4C S
+ECE 340 Electromagnetic Fields 4R-0L-4C F,W
+ECE 341 Electromagnetic Waves 4R-0L-4C W,S
+ECE 342 Introduction to Electromagnetic Compatibility 3R-3L-4C F,S
+ECE 343 High-Speed Digital Design 3R-3L-4C F,S
+ECE 351 Analog Electronics 3R-3L-4C F,W
+ECE 362 Principles of Design 3R-0L-3C W,S
+ECE 370 Power &amp; Energy Systems 3R-3L-4C W,S
+ECE 371 Sustainable Energy Systems 3R-3L-4C W,S
+ECE 380 Discrete-Time Signals and Systems 4R-0L-4C F,W
+ECE 398 Undergraduate Projects 1-4C 
+ECE 412 Software Defined Radio  3R-3L-4C S
+ECE 414 Wireless Systems 4R-0L-4C W
+ECE 415 Wireless Electronics 2R-6L-4C 
+ECE 416 Introduction to MEMS: Fabrication &amp; Applications 3R-3L-4C S
+ECE 418 Fiber Optic Systems 4R-0L-4C S
+ECE 419 Advanced MEMS: Modeling and Packaging 3R-3L-4C F
+ECE 420 Discrete-Time Control Systems 4R-0L-4C F
+ECE 425 Introduction to Mobile Robotics 3R-3L-4C W
+ECE 430 Microcontroller-Based Systems 3R-3L-4C F
+ECE 433 Advanced Digital System Design with Verilog  3R-3L-4C  F
+ECE 434 Embedded Linux  3R-3L-4C  W
+ECE 452 Power Electronics 3R-3L-4C F
+ECE 454 System Level Analog Electronics 3R-3L-4C W
+ECE 460 Engineering Design I 1R-6L-3C F
+ECE 461 Engineering Design II 1R-9L-4C W
+ECE 462 Engineering Design III 1R-3L-2C W,S
+ECE 466 Consulting Engineering Seminar 2R-0L-2C 
+ECE 470 Power Systems I 3R-3L-4C F
+ECE 471 Industrial Power Systems 4R-0L-4C W
+ECE 472 Power Systems II 3R-3L-4C S
+ECE 473 Control of Power Systems 3R-3L-4C W
+ECE 480 Introduction to Image Processing 3R-3L-4C W
+ECE 481 Electronic Music Synthesis 4R-0L-4C S
+ECE 483 DSP System Design 3R-3L-4C F
+ECE 497 Special Topics in Electrical Engineering 1-4C 
+ECE 498 Undergraduate Projects 1-4C 
+ECE 510 Error Correcting Codes 4R-0L-4C F (odd years)
+ECE 511 Data Communications 4R-0L-4C F (even years)
+ECE 512 Probability, Random Processes, and Estimation 4R-0L-4C W
+ECE 516 Introduction to MEMS: Fabrication &amp; Applications 3R-3L-4C S
+ECE 519 Advanced MEMS: Modeling &amp; Packaging 3R-3L-4C F
+ECE 523 Advanced Topics in Computer Architecture  4R-0L-4C  W
+ECE 530 Advanced Microcomputers 3R-3L-4C S
+ECE 531 Digital Test &amp; Product Engineering 3R-3L-4C S
+ECE 534 Advanced Signal &amp; Power Integrity 4R-0L-4C W
+ECE 540 Antenna Engineering 3R-3L-4C W
+ECE 541 Microwave/Millimeter-Wave Engineering 4R-0L-4C S
+ECE 542 Advanced Electromagnetics 4R-0L-4C F
+ECE 543 Electromagnetic Metamaterials 4R-0L-4C 
+ECE 551 Digital Integrated Circuit Design 3R-3L-4C F
+ECE 552 Analog Integrated Circuit Design 3R-3L-4C W
+ECE 553 Radio-Frequency Integrated Circuit Design 3R-3L-4C S
+ECE 554 Instrumentation 4R-0L-4C S
+ECE 556 Power Electronics: DC Power Supplies 3R-3L-4C S
+ECE 557 Analog Test &amp; Product Engineering 3R-3L-4C F
+ECE 558 Mixed-Signal Test &amp; Product Engineering 3R-3L-4C W
+ECE 580 Digital Signal Processing 4R-0L-4C W
+ECE 581 Digital Signal Processing Projects 2R-2L-2 or 4C 
+ECE 582 Advanced Image Processing 3R-3L-4C S
+ECE 584 Medical Imaging Systems 4R-0L-4C 
+ECE 596 Independent Study in Electrical Engineering 1C-4C 
+ECE 597 Special Topics in Electrical Engineering 4C 
+ECE 598 Thesis Research 1-4C 
+ECE CPT Curricular Practical Training (CPT)  1R-0L-1C 

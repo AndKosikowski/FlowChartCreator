@@ -1,0 +1,232 @@
+CE 101 Engineering Surveying 0R-6L-2C F
+Prerequisities: 
+Corequisites: />
+
+CE 111 Geographical Information Systems  2R-0L-2C W
+Prerequisities: 
+Corequisites: />
+
+CE 199 Professional Experience 1R-0L-1C 
+Prerequisities: 
+Corequisites: />
+
+CE 205 Thermodynamics 4R-0L-4C F
+Prerequisities: 
+Corequisites: >MA 112</a>                          <br/>
+
+CE 250 Sustainable Civil Engineering Design 2R-0L-2C W
+Prerequisities: 
+Corequisites: >EM 103</a>                          <br/>
+
+CE 303 Engineering Economy 4R-0L-4C W
+Prerequisities: 
+Corequisites: />
+
+CE 310 Computer Applications in Civil Engineering 2R-0L-2C S
+Prerequisities: 
+Corequisites: >EM 202</a>, and                             
+
+CE 320 Civil Engineering Materials 3R-3L-4C S
+Prerequisities: 
+Corequisites: />
+
+CE 321 Structural Mechanics I 4R-0L-4C F
+Prerequisities: 
+Corequisites: >EM 203</a>                          <br/>
+
+CE 336 Soil Mechanics 3R-3L-4C F
+Prerequisities: 
+Corequisites: >EM 203</a>, and                             
+
+CE 371 Hydraulic Engineering 3R-3L-4C F
+Prerequisities: 
+Corequisites: >EM 301</a> or                             
+
+CE 380 Introduction to Transportation Engineering 4R-0L-4C S
+Prerequisities: 
+Corequisites: >CE 101</a>                          <br/>
+
+CE 400 Career Preparation Seminar 1R-0L-0C S
+Prerequisities: 
+Corequisites: >CE 488</a>                          <br/>
+
+CE 421 Structural Mechanics II 4R-0L-4C W
+Prerequisities: 
+Corequisites: >CE 321</a>                          <br/>
+
+CE 431 Structural Design in Steel I 3R-0L-3C S
+Prerequisities: 
+Corequisites: >CE 321</a>                          <br/>
+
+CE 432 Structural Design in Concrete I 3R-0L-3C W
+Prerequisities: 
+Corequisites: >CE 321</a>                          <br/>
+
+CE 436 Foundation Engineering 4R-0L-4C  F
+Prerequisities: 
+Corequisites: >CE 336</a>, and                             
+
+CE 441 Construction Engineering 2R-0L-2C W
+Prerequisities: 
+Corequisites: />
+
+CE 442 Cost Engineering 4R-0L-4C W
+Prerequisities: 
+Corequisites: />
+
+CE 445 Construction Methods &amp; Equipment 4R-0L-4C  F
+Prerequisities: 
+Corequisites: />
+
+CE 450 Civil Engineering Codes &amp; Regulations 4R-0L-4C F
+Prerequisities: 
+Corequisites: />
+
+CE 460 Introduction to Environmental Engineering 4R-0L-4C S
+Prerequisities: 
+Corequisites: >EM 301</a> or                             
+
+CE 461 Environmental Engineering laboratory 1R-3L-2C S
+Prerequisities: 
+Corequisites: />
+
+CE 463 Unit Operations in Environmental Engineering 4R-0L-4C F
+Prerequisities: 
+Corequisites: >CE 460</a>                          <br/>
+
+CE 471 Water Resources Engineering 4R-0L-4C W
+Prerequisities: 
+Corequisites: >EM 301</a> or                             
+
+CE 480 Geometric Design of Highways and Streets 4R-0L-4C W
+Prerequisities: 
+Corequisites: >CE 380</a>                          <br/>
+
+CE 481 Traffic Analysis &amp; Design 4R-0L-4C F
+Prerequisities: 
+Corequisites: >CE 380</a>                          <br/>
+
+CE 483 Railroad Engineering 4R-0L-4C S
+Prerequisities: 
+Corequisites: />
+
+CE 486 Civil Engineering Design &amp; Synthesis I 1R-3L-2C F
+Prerequisities: 
+Corequisites: >RH 330</a>, and                             
+
+CE 487 Technical System Design &amp; Synthesis 2R-2L-2C W
+Prerequisities: 
+Corequisites: >CE 486</a>                          <br/>
+
+CE 488 Civil Engineering Design &amp; Synthesis II 1R-2L- 2C W
+Prerequisities: 
+Corequisites: >CE 486</a>                          <br/>
+
+CE 489 Civil Engineering Design &amp; Synthesis III 1R-3L-2C S
+Prerequisities: 
+Corequisites: >CE 487</a>, and                             
+
+CE 490 Directed Studies CE 490 Directed Studies 1-4C Arranged F,W,S
+Prerequisities: 
+Corequisites: />
+
+CE 520 Structural Engineering Externship 0R-12L-4C 
+Prerequisities: 
+Corequisites: />
+
+CE 521 Matrix Methods for Structural Analysis 4R-0L-4C F
+Prerequisities: 
+Corequisites: >CE 321</a>                          <br/>
+
+CE 522 Structural Dynamics 4R-0L-4C W
+Prerequisities: 
+Corequisites: />
+
+CE 523 Advanced Solid Mechanics 4R-0L-4C W
+Prerequisities: 
+Corequisites: />
+
+CE 524 Building Design 4R-0L-4C S
+Prerequisities: 
+Corequisites: >CE 421*</a>                              *Graduate standing, or consent of instructor and CE 421
+
+CE 525 Bridge Engineering 4R-0L-4C S
+Prerequisities: 
+Corequisites: >CE 421</a>, and                             
+
+CE 532 Structural Design in Concrete II 3R-3L-4C F
+Prerequisities: 
+Corequisites: >CE 432</a>                          <br/>
+
+CE 533 Connections &amp; Detailing 4R-0L-4C S
+Prerequisities: 
+Corequisites: >CE 431</a>, and                             
+
+CE 535 Structural Design in Prestressed Concrete 4R-0L-4C F
+Prerequisities: 
+Corequisites: >CE 432</a>                          <br/>
+
+CE 537 Retaining Structure Design 4R-0L-4C W
+Prerequisities: 
+Corequisites: >CE 336</a>, and                             
+
+CE 562 Advanced Wastewater Treatment 4R-0L-4C 
+Prerequisities: 
+Corequisites: >CE 463</a>                          <br/>
+
+CE 563 Advanced Water Treatment 4R-0L-4C 
+Prerequisities: 
+Corequisites: >CE 463</a>                          <br/>
+
+CE 564 Aquatic Environmental Chemistry 4R-0L-4C F
+Prerequisities: 
+Corequisites: />
+
+CE 565 Solid &amp; Hazardous Waste Regulation &amp; Treatment 4R-0L-4C On Demand
+Prerequisities: 
+Corequisites: >CE 460</a>                          <br/>
+
+CE 567 Applied Hydrologic Modeling 4R-0L-4C 
+Prerequisities: 
+Corequisites: >CE 471</a>                          <br/>
+
+CE 568 Surface Water Quality Modeling 4R-0L-4C S
+Prerequisities: 
+Corequisites: >CE 460</a>                              or consent of instructor
+
+CE 570 Modeling Open Channel Hydraulics 4R-0L-4C W
+Prerequisities: 
+Corequisites: >CE 371</a>                          <br/>
+
+CE 571 Environmental River Mechanics 3R-3L-4C S
+Prerequisities: 
+Corequisites: >CE 371</a>                          <br/>
+
+CE 573 Groundwater Analysis 4R-0L-4C 
+Prerequisities: 
+Corequisites: >CE 471</a>                          <br/>
+
+CE 589 Environmental Engineering Design &amp; Synthesis 4R-12L-8C F,W,S
+Prerequisities: 
+Corequisites: />
+
+CE 590 Special Problems 2/4R-0L-2/4C F,W,S
+Prerequisities: 
+Corequisites: />
+
+CE 597 Special Projects in Civil Engineering Variable Credit F,W,S
+Prerequisities: 
+Corequisites: />
+
+CE 598 Special Topics in Civil Engineering Variable Credit 
+Prerequisities: 
+Corequisites: />
+
+CE 599 Thesis Research As assigned F,W,S
+Prerequisities: 
+Corequisites: />
+
+CE 699 Professional Experience 1R-0L-1C 
+Prerequisities: 
+Corequisites: />
+

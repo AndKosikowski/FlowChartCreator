@@ -1,0 +1,51 @@
+MA 111 Calculus I
+Foundational Science* (PH 111)
+RHIT 100 Foundations for Rose-Hulman Success
+EM 104 Graphical Communications
+RH 131 Rhetoric &amp; Composition or HSSA Elective
+MA 112 Calculus II
+Foundational Science*  (PH 112)
+EM 121 Statics &amp; Mechanics of Materials I
+RH 131 Rhetoric &amp; Composition or HSSA Elective
+MA 113 Calculus III
+Foundational Science* (CHEM111 or BIO101)
+EM 103 Introduction to Design
+ME 123 Computer Applications I
+MA 211 Differential Equations
+ES 201 Conservation &amp; Accounting Principles
+ES 213 Electrical Systems
+ES 213L Electrical Systems Lab
+Foundational Science* (BIO101 or CHEM111)
+MA 212 Matrix Algebra &amp; Systems of Differential Equations
+ES 212 Fluid Systems
+ES 214 Mechanical Systems
+HSSA Elective
+MA 223 Statistics for Engineers
+ES 205 Analysis &amp; Design of Engineering Systems
+Math/Science Elective**
+HSSA Elective
+ME 301 Applications of Thermodynamics
+EM 204 Statics &amp; Mechanics of Materials II
+ME406 Control Systems or EM 406 Vibration Analysis
+Free Elective**
+ME 317 Design for Manufacturing
+ME 327 Numerical Methods in Engineering Analysis	
+ME 328 Materials Engineering
+RH 330 Technical Communications split winter or spring with HSSA Elective
+ME 302 Heat Transfer
+ME 321 Measurement Systems
+ME 480 Machine Component Design
+HSSA Elective split winter or spring with RH 330 Technical Communications
+ME 470 Capstone Design I
+ME 421 Lab 
+HSSA Elective
+Tech Elective**
+Tech Elective**
+ME 471 Capstone Design II
+ME 430 Mechatronic Systems
+HSSA Elective
+Free Elective**
+ME 472 Capstone Design III
+Tech Elective**
+Tech Elective**
+HSSA Elective

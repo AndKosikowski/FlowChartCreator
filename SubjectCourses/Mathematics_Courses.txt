@@ -1,0 +1,328 @@
+MA 095 Calculus Prep 2R-0L-2C F
+Prerequisities: 
+Corequisites: />
+
+MA 111 Calculus I 5R-0L-5C F,W
+Prerequisities: 
+Corequisites: />
+
+MA 112 Calculus II 5R-0L-5C F,W,S
+Prerequisities: 
+Corequisites: >MA 111</a>                          <br/>
+
+MA 113 Calculus III 5R-0L-5C F,W,S
+Prerequisities: 
+Corequisites: >MA 112</a>                          <br/>
+
+MA 190 Contemporary Mathematical Problems 2R-0L-2C S
+Prerequisities: 
+Corequisites: />
+
+MA 199 Professional Experience 1R-0L-1C 
+Prerequisities: 
+Corequisites: />
+
+MA 200 Career Preparation 1R-0L-1C W
+Prerequisities: 
+Corequisites: />
+
+MA 211 Differential Equations 4R-0L-4C Arranged
+Prerequisities: 
+Corequisites: >MA 113</a>                          <br/>
+
+MA 212 Matrix Algebra &amp; Systems of Differential Equations 4R-0L-4C Arranged
+Prerequisities: 
+Corequisites: >MA 113</a>                          <br/>
+
+MA 221 Matrix Algebra &amp; Differential Equations I 4R-0L-4C F,W,S
+Prerequisities: 
+Corequisites: >MA 113</a>                          <br/>
+
+MA 222 Matrix Algebra &amp; Differential Equations II 4R-0L-4C F,W,S
+Prerequisities: 
+Corequisites: >MA 221</a>                          <br/>
+
+MA 223 Engineering Statistics I 4R-0L-4C F,W,S
+Prerequisities: 
+Corequisites: >MA 111</a>, and                             
+
+MA 275 Discrete &amp; Combinatorial Algebra I  4R-0L-4C Arranged
+Prerequisities: 
+Corequisites: >MA 112</a>                          <br/>
+
+MA 276 Introduction to Proofs  4R-0L-4C F, W
+Prerequisities: 
+Corequisites: >MA 112</a>                          <br/>
+
+MA 323 Geometric Modeling 4R-0L-4C W (Even years)
+Prerequisities: 
+Corequisites: >MA 113</a>                          <br/>
+
+MA 327 Low Dimensional Topology 4R-0L-4C W (odd years)
+Prerequisities: 
+Corequisites: >MA 113</a>                              or consent of instructor
+
+MA 330 Vector Calculus 4R-0L-4C F,S
+Prerequisities: 
+Corequisites: >MA 212</a> or                             
+
+MA 332 Introduction to Computational Science 4R-0L-4C F,W
+Prerequisities: 
+Corequisites: >MA 212</a> or                             
+
+MA 335 Introduction to Parallel Computing 4R-0L-4C S
+Prerequisities: 
+Corequisites: >MA 212</a> or                             
+
+MA 336 Boundary Value Problems 4R-0L-4C F,S
+Prerequisities: 
+Corequisites: >MA 222</a>, or both                             
+
+MA 341 Topics in Mathematical Modeling 4R-0L-4C W
+Prerequisities: 
+Corequisites: >MA 222</a>, or both                             
+
+MA 342 Computational Modeling 4R-0L-4C S
+Prerequisities: 
+Corequisites: >MA 212</a> or                             
+
+MA 351-6 Problem Solving Seminar  1R-0L-1C F,W,S
+Prerequisities: 
+Corequisites: />
+
+MA 366 Introduction to Real Analysis 4R-0L-4C F, W
+Prerequisities: 
+Corequisites: >MA 371</a>, and either                             
+
+MA 367 Functions of a Complex Variable 4R-0L-4C S
+Prerequisities: 
+Corequisites: >MA 212</a> or                             
+
+MA 371 Linear Algebra I 4R-0L-4C F,S
+Prerequisities: 
+Corequisites: >MA 212</a> or                             
+
+MA 373 Applied Linear Algebra for Engineers 4R-0L-4C W
+Prerequisities: 
+Corequisites: >MA 212</a> or                             
+
+MA 374 Combinatorics   4R-0L-4C F, W, S
+Prerequisities: 
+Corequisites: >MA 112</a>                          <br/>
+
+MA 375 Discrete &amp; Combinatorial Algebra II 4R-0L-4C Arranged
+Prerequisities: 
+Corequisites: >MA 275</a>                          <br/>
+
+MA 376 Abstract Algebra 4R-0L-4C S
+Prerequisities: 
+Corequisites: >MA 275</a> or                             
+
+MA 378 Number Theory 4R-0L-4C S
+Prerequisities: 
+Corequisites: />
+
+MA 381 Introduction to Probability with Applications to Statistics 4R-0L-4C F,W,S
+Prerequisities: 
+Corequisites: >MA 113</a>                          <br/>
+
+MA 382 Introduction to Statistics with Probability 4R-0L-4C F
+Prerequisities: 
+Corequisites: >MA 381</a>                          <br/>
+
+MA 383 Engineering Statistics II 4R-0L-4C F
+Prerequisities: 
+Corequisites: >MA 223</a> or                             
+
+MA 384 Data Mining 4R–0L–4C 
+Prerequisities: 
+Corequisites: >CSSE 120</a>, and either                             
+
+MA 386 Statistical Programming 4R-0L-4C 
+Prerequisities: 
+Corequisites: >MA 223</a> or                             
+
+MA 390 Topics in the Mathematics of Engineering 1-2C Arranged 
+Prerequisities: 
+Corequisites: />
+
+MA 415 Machine Learning 4R-0L-4C S
+Prerequisities: 
+Corequisites: >MA 212*</a> or                             
+
+MA 416 Deep Learning 4R-0L-4C Arranged
+Prerequisities: 
+Corequisites: >MA 212</a> or                             
+
+MA 421 Tensor Calculus &amp; Riemannian Geometry 4R-0L-4C Fall (Odd years)
+Prerequisities: 
+Corequisites: >MA 330</a>                          <br/>
+
+MA 423 Topics in Geometry 4R-0L-4C Arranged
+Prerequisities: 
+Corequisites: >MA 371</a> or                             
+
+MA 430 Topics in Applied Mathematics 4R-0L-4C Arranged
+Prerequisities: 
+Corequisites: />
+
+MA 431 Calculus of Variations 4R-0L-4C Arranged
+Prerequisities: 
+Corequisites: >MA 330</a>                          <br/>
+
+MA 433 Numerical Analysis 4R-0L-4C W
+Prerequisities: 
+Corequisites: >MA 332</a> or                             
+
+MA 434 Topics in Numerical Analysis 4R-0L-4C Arranged
+Prerequisities: 
+Corequisites: >MA 433</a>                          <br/>
+
+MA 435  Finite Difference Methods 4R-0L-4C W
+Prerequisities: 
+Corequisites: >MA 332</a> or                             
+
+MA 436 Introduction to Partial Differential Equations 4R-0L-4C F (even years)
+Prerequisities: 
+Corequisites: >MA 330</a>                          <br/>
+
+MA 438 Advanced Engineering Mathematics   4R-0L-4C  W
+Prerequisities: 
+Corequisites: >MA 222</a>, or both                             
+
+MA 439 Mathematical Methods of Image Processing 4R-0L-4C F (Odd years)
+Prerequisities: 
+Corequisites: >MA 212</a> or                             
+
+MA 444 Deterministic Models in Operations Research 4R-0L-4C  W
+Prerequisities: 
+Corequisites: >MA 371</a> or                             
+
+MA 445 Stochastic Models in Operations Research 4R-0L-4C S (even years)
+Prerequisities: 
+Corequisites: >MA 381</a>, and either                             
+
+MA 446 Combinatorial Optimization 4R-0L-4C S (odd years)
+Prerequisities: 
+Corequisites: >MA 375</a>, or both                             
+
+MA 450 Mathematics Seminar 1R-0L-1C F,W,S
+Prerequisities: 
+Corequisites: />
+
+MA 460 Topics in Analysis 4R-0L-4C Arranged
+Prerequisities: 
+Corequisites: />
+
+MA 461 Topics in Topology 4R-0L-4C Arranged
+Prerequisities: 
+Corequisites: >MA 366</a>                              or consent of instructor
+
+MA 466 Introduction to Functional Analysis  4R-0L-4C Arranged
+Prerequisities: 
+Corequisites: >MA 366</a>                          <br/>
+
+MA 470 Topics in Algebra 4R-0L-4C Arranged
+Prerequisities: 
+Corequisites: />
+
+MA 471 Linear Algebra II 4R-0L-4C S (even years)
+Prerequisities: 
+Corequisites: >MA 371</a> or                             
+
+MA 473 Design &amp; Analysis of Algorithms  4R-0L-4C W
+Prerequisities: 
+Corequisites: >CSSE 230</a>, and either                             
+
+MA 474 Theory of Computation 4R-0L-4C S
+Prerequisities: 
+Corequisites: >CSSE 230</a>, and either                             
+
+MA 475 Topics in Discrete Mathematics 4R-0L-4C Arranged
+Prerequisities: 
+Corequisites: >MA 375</a>, or both                             
+
+MA 476 Algebraic Codes  4R-0L-4C S (odd years)
+Prerequisities: 
+Corequisites: >MA 375</a>, or both                             
+
+MA 477 Graph Theory 4R-0L-4C S (even years)
+Prerequisities: 
+Corequisites: >MA 375</a>, or both                             
+
+MA 478 Topics in Number Theory 4R-0L-4C Arranged
+Prerequisities: 
+Corequisites: >MA 378</a> or                             
+
+MA 479 Cryptography 4R-0L-4C S
+Prerequisities: 
+Corequisites: >CSSE 220</a>, and either                             
+
+MA 480 Topics in Probability or Statistics 4R-0L-4C Arranged
+Prerequisities: 
+Corequisites: />
+
+MA 481 Mathematical Statistics 4R-0L-4C W (even years)
+Prerequisities: 
+Corequisites: >MA 382</a>, or both                             
+
+MA 482 Biostatistics 4R-0L-4C S
+Prerequisities: 
+Corequisites: >MA 223</a> or                             
+
+MA 483 Bayesian Data Analysis  4R-0L-4C W (Odd years)
+Prerequisities: 
+Corequisites: >MA 381</a>                          <br/>
+
+MA 485 Applied Linear Regression  4R-0L-4C W (odd years)
+Prerequisities: 
+Corequisites: >MA 212</a> or                             
+
+MA 487 Design of Experiments 4R-0L-4C W (even years)
+Prerequisities: 
+Corequisites: >MA 223</a> or                             
+
+MA 490 Topics in Mathematics Variable credit 
+Prerequisities: 
+Corequisites: />
+
+MA 491 Introduction to Mathematical Modeling 2C F
+Prerequisities: 
+Corequisites: />
+
+MA 495 Research Project in Mathematics Variable Credit 
+Prerequisities: 
+Corequisites: />
+
+MA 496 Senior Capstone I 2C or 4C See Department
+Prerequisities: 
+Corequisites: />
+
+MA 497 Senior Capstone II 2C See Department
+Prerequisities: 
+Corequisites: >MA 496</a>                              or permission of instructor
+
+MA 498 Senior Capstone III 2C See Department
+Prerequisities: 
+Corequisites: >MA 497</a>                              or permission of instructor
+
+MA 538 Advanced Engineering Mathematics 4R-0L-4C  W
+Prerequisities: 
+Corequisites: />
+
+MA 580 Topics in Advanced Probability Theory &amp; Its Applications 4R-0L-4C Arranged
+Prerequisities: 
+Corequisites: >MA 381</a>                          <br/>
+
+MA 581 Topics in Advanced Statistics 4R-0L-4C Arranged
+Prerequisities: 
+Corequisites: >MA 223</a> or                             
+
+MA 590 Graduate Topics in Mathematics Variable Credit 
+Prerequisities: 
+Corequisites: />
+
+MAFTC Calculus I, Calculus II, Calculus III - Fast Track Calculus 15R-0L-15C 
+Prerequisities: 
+Corequisites: />
+

@@ -1,0 +1,56 @@
+MA 111 Calculus I
+PH 111 Physics I
+RH 131 Rhetoric &amp; Composition or HSSA Elective
+RHIT 100 Foundations for Rose-Hulman Success
+CE 101 Engineering Surveying
+MA 112 Calculus II
+PH 112 Physics II
+RH 131 Rhetoric &amp; Composition or HSSA Elective
+CE 111 Geographic Info Systems	
+EM 102 Graphical Communications for CE
+MA 113 Calculus III
+EM 103 Introduction to Design
+EM 120 Engineering Statics
+HSSA Elective
+MA 221 Matrix Algebra &amp; Differential Equations I
+CHEM 111 General Chemistry I
+EM 202 Dynamics
+HSSA Elective
+MA 222 Matrix Algebra &amp; Differential Equations II
+EM 203 Mechanics of Materials
+CHEM 113 General Chemistry II
+CE 250 Sustainable CE Design
+Elective (Science)***
+MA223 Engineering Statistics
+EM 301 Fluid Mechanics
+CE 310 Comp Apps in CE
+CE 320 C.E. Materials
+CE 380 Transportation Engineering
+CE 321 Structural Mechanics I
+CE 336 Soil Mechanics
+CE 205 Thermodynamics or CHE 201 Conservation Principles &amp; Balances
+CE 371 Hydraulic Engineering
+ECE 206  Elements of Electrical Eng. or CHE 202 Basic Chemical Process Calculations
+CE 441 Construction Engineering
+CE 432 Concrete Design I
+CE 471 Water Resources Engineering
+Elective (Science)***
+HSSA Elective
+CE 431 Steel Design I
+CE 460 Environmental Engineering	
+RH 330 Technical &amp; Professional Communication
+CE 461 Environmental  Engineering Lab
+CE 486 C.E. Design &amp; Synthesis I
+CE **C.E. Elective
+CE 450 C.E. Codes &amp; Regulations
+HSSA Elective
+CE 487 Technical System Design &amp; Synthesis
+CE 488 C.E. Design &amp; Synthesis II
+CE **C.E. Elective
+*Elective (Technical)
+CE 303 Engineering Economy
+CE 489 C.E. Design &amp; Synthesis III
+*Elective(Technical)
+HSSA Elective
+HSSA Elective
+CE 400 Career Preparation Seminar

@@ -1,0 +1,76 @@
+MDS 100 Me, Myself, and Leadership 1R-1L-21 W, S
+Prerequisities: 
+Corequisites: />
+
+MDS 200 Leading Together 1R-1L-1C F, W
+Prerequisities: 
+Corequisites: >MDS 100</a>                          <br/>
+
+MDS 201 Global Engineering and the Social Context 1R-3L-2C 
+Prerequisities: 
+Corequisites: />
+
+MDS 202 Global Engineering and the Social Context  0R-6L-2C 
+Prerequisities: 
+Corequisites: >MDS 201</a>                          <br/>
+
+MDS 210 Introduction to Internet of Things 4R-0L-4C W
+Prerequisities: 
+Corequisites: >ECE 160</a> or                             
+
+MDS 290 Special Topics in Multidisciplinary Studies 1C-4C Variable 
+Prerequisities: 
+Corequisites: />
+
+MDS 301 Global Engineering for Health 4R-0L-4C 
+Prerequisities: 
+Corequisites: >PH 112</a>                          <br/>
+
+MDS 302 Sustainability in Practice 2R-0L-2C 
+Prerequisities: 
+Corequisites: >HUM H130</a>,                             
+
+MDS 310 Appropriate Technology for Developing Communities  4R-0L-4C  F
+Prerequisities: 
+Corequisites: >MA 113</a>, and                             
+
+MDS 390 Special Topics in Multidisciplinary Studies   1C-4C Variable 
+Prerequisities: 
+Corequisites: />
+
+MDS 401 Independent Project/Research Opportunities Seminar 1R-0L-1C F,W,S
+Prerequisities: 
+Corequisites: />
+
+MDS 402 Seminar in Sustainability 2R-0L-2C 
+Prerequisities: 
+Corequisites: >MDS 302</a>                          <br/>
+
+MDS 410 Multidisciplinary Capstone I 2R-3L-4C F
+Prerequisities: 
+Corequisites: />
+
+MDS 420 Multidisciplinary Capstone II 2R-3L-4C W
+Prerequisities: 
+Corequisites: >MDS 410</a>                          <br/>
+
+MDS 430 Multidisciplinary Capstone III 2R-3L-4C S
+Prerequisities: 
+Corequisites: >MDS 420</a>                          <br/>
+
+MDS 440 Systems Engineering Capstone  2R-0L-2C  
+Prerequisities: 
+Corequisites: />
+
+MDS 442 Applied Computational Modeling 0R-2L-1C  S
+Prerequisities: 
+Corequisites: >MA 342</a> and                              consent of instructor
+
+MDS 450 Consulting Engineering Seminar 2R-0L-2C  S
+Prerequisities: 
+Corequisites: />
+
+MDS 490 Special Topics in Multidisciplinary Studies 1C-4C Variable 
+Prerequisities: 
+Corequisites: />
+

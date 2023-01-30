@@ -1,0 +1,50 @@
+PH 111 Physics I
+MA 111 Calculus I
+RHIT 100 Foundations for Rose-Hulman Success
+RH 131 Rhetoric & Composition or HSSA Elective
+ECE 160 Engineering Practice
+PH 112 Physics II
+MA 112 Calculus II
+CSSE 120 Introduction to Software Development
+RH 131 Rhetoric & Composition or HSSA Elective
+PH 113 Physics III
+MA 113 Calculus III
+ECE 203 DC Circuits
+ECE 180 Introduction to Signal Processing
+MA 221 Matrix Algebra & Differential Equations I
+CSSE 220 Object Oriented Software Development
+ECE 204 AC Circuits
+ECE 233 Introduction to Digital Systems
+MA 222 Matrix Algebra & Differential Equations II
+ECE 205 Circuits & Systems
+ECE 230 Introduction to Embedded Systems
+ECE 370 Power & Energy Systems or ECE 371 Sustainable Energy Systems
+MA 381 Introduction to Probability with Applications to Statistics
+ECE 250 Electronice Device Modeling
+ECE 300 Continuous-Time Signals & Systems
+HSSA Elective
+ECE 380 Discrete-Time Signals & Systems
+ECE 351 Analog Electronics
+ECE 340 Electromagnetic Fields
+RH 330 Technical & Professional Communication
+ECE 320 Linear Control Systems
+ECE 341 Electromagnetic Waves
+Math/Science Elective
+HSSA Elective
+ECE 310 Communications Systems
+ECE 362 Principles of Design
+Restricted Science Elective
+HSSA Elective
+ECE 460 Engineering Design I
+ECE Area Elective
+Math Elective
+HSSA Elective
+ECE 461 Engineering Design II
+ECE Area Elective
+Tech Elective
+HSSA Elective
+ECE 462 Engineering Design III
+ECE Area Elective
+HSSA Elective
+Free Elective
+Free Elective

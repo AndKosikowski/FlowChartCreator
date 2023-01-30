@@ -1,0 +1,25 @@
+MA 111 Calculus I
+RHIT 100 Foundations for Rose-Hulman Success
+RH 131 Rhetoric &amp; Composition or HSSElective
+ECON S151 Intro to Microeconomics or ECON S152 Intro to Macroeconomics 
+Physical or Life Science
+MA 112 Calculus II
+CSSE 120 Intro to Software Development
+RH 131 Rhetoric and Composition or ECON S151 Intro to Microeconomics or ECON S152 Intro to Macroeconomics
+Physical or Life Science
+MA 113 Calculus III
+RH 131 Rhetoric &amp; Composition or  or ECON S151 Intro to Microeconomics or  or ECON S152 Intro to Macroeconomics
+Physical or Life Science
+*HSSA Elective
+MA 211 Differential Equations
+Economics Elective
+*HSSA Elective
+Physical or Life Science
+MA 212 Matrix Algebra &amp; Systems of Differential Equations
+Economics Elective
+*HSSA Elective
+Physical or Life Science
+MA 381 Intro to Probability with Applications to Statistics or MA 223 Engineering Statistics
+Economics Elective
+*HSSA Elective
+Physical or Life Science

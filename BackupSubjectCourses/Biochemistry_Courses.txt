@@ -1,0 +1,61 @@
+CHEM 111 General Chemistry I 3R-0L-3C  F,W,S
+CHEM 111L General Chemistry I Laboratory 0R-3L-1C F,W,S
+CHEM 112  Chemistry Honors 4R-3L-5C F
+CHEM 113 General Chemistry II 3R-0L-3C  W,S
+CHEM 113L General Chemistry II Laboratory 0R-3L-1C W,S
+CHEM 115 General Chemistry III 3R-0L-3C  
+CHEM 115L General Chemistry III Laboratory 0R-3L-1C W,S
+CHEM 200 Career Preparation 1R-0L-1C W
+CHEM 225 Analytical Chemistry 3R-0L-3C  F,S
+CHEM 225L Analytical Chemistry Laboratory 0R-3L-1C F,S
+CHEM 251 Organic Chemistry I 3.5R-0L-3.5C F,W
+CHEM 251L Organic Chemistry I Laboratory 0R-3L-0.5C F,W
+CHEM 252 Organic Chemistry II 3R-0L-3C W,S
+CHEM 252L Organic Chemistry II Laboratory 0R-3L-1C W,S
+CHEM 253 Organic Chemistry III 3R-0L-3C S
+CHEM 253L Organic Chemistry III Laboratory 0R-4L-1C S
+CHEM 270 Special Topics in Chemistry (1-4)R-0L-(1-4)C 
+CHEM 276 Special Topics in Chemistry with Laboratory (0-3)R-(3-6)L-(1-4)C 
+CHEM 290 Chemical Research 0R-(4-8)L-(1-2)C 
+CHEM 291 Introduction to Chemical Research 2R-4L-3C W
+CHEM 326 Bioanalytical Chemistry 3R-4L-4-C F
+CHEM 327 Advanced Analytical Chemistry 3R-4L-4C W
+CHEM 330 Biochemistry I 4R-0L-4C F,S
+CHEM 331 Biochemistry II 4R-0L-4C W
+CHEM 360 Introduction to Physical Chemistry for Engineers 4R-0L-4C W,S
+CHEM 361 Physical Chemistry I 4R-2L-4C F
+CHEM 362 Physical Chemistry II  3R-2L-4C W
+CHEM 391 Research Proposal 1R-0L-1C 
+CHEM 395 Chemistry Seminar 0R-0L-0C 
+CHEM 420 Electronics for Scientists 3R-4L-4C 
+CHEM 430 Advanced Biochemistry 4R-0L-4C 
+CHEM 433 Biochemistry Laboratory 0R-3L-lC 
+CHEM 441 Inorganic Chemistry I 4R-0L-4C F
+CHEM 442 Inorganic Chemistry II 3R-4L-4C W
+CHEM 451 Organic Structure Determination 2R-8L-4C 
+CHEM 463 Quantum Chemistry &amp; Molecular Spectroscopy 4R-0L-4C S
+CHEM 470 Special Topics in Chemistry (1-4)R-0L-(1-4)C 
+CHEM 476 Special Topics in Chemistry with Laboratory (0-3)R-(3-6)L-(1-4)C 
+CHEM 477 Directed Study in Chemistry (1-4)R-0L-(1-4)C 
+CHEM 490 Chemical Research 0R-(4-12)L-(1-3)C 
+CHEM 491 Research Thesis 1R-0L-1C 
+CHEM 495 Chemistry Seminar 0R-0L-0C 
+CHEM 496 Chemistry Seminar 0R-0L-0C 
+CHEM 497 Research Presentation 1R-0L-1C 
+CHEM 520 Electronics for Scientists  3R-4L-4C 
+CHEM 530 Advanced Biochemistry 4R-0L-4C 
+CHEM 531 Biochemical Instrumentation 3R-4L-4C 
+CHEM 532 Biochemical Pharmacology 4R-0L-4C 
+CHEM 545 Organometallic Chemistry 4R-0L-4C 
+CHEM 552 Synthetic Organic Chemistry 4R-0L-4C 
+CHEM 554 Theoretical Organic Chemistry 4R-0L-4C 
+CHEM 555 Natural Products 4R-0L-4C 
+CHEM 561 Advanced Physical Chemistry 4R-0L-4C 
+CHEM 570 Special Topics in Chemistry (1-4)R-0L-(1-4)C 
+CHEM 581 Polymer Chemistry 3R-4L-4C 
+CHEM 582 Physical Properties of Polymeric Materials 4R-0L-4C 
+CHEM 595 Chemistry Seminar 0R-0L-0C 
+CHEM 596 Chemistry Seminar 0R-0L-0C 
+CHEM 597 Chemistry Seminar 0R-0L-0C 
+CHEM 599 Thesis Research As assigned 
+CHEM CPT Curricular Practical Training 1R-0L-1C 

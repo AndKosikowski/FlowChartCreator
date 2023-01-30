@@ -1,0 +1,51 @@
+BIO 130 Evolution and Diversity
+CHEM 111 General Chemistry
+MA 111 Calculus I
+RHIT 100 Foundations for Rose-Hulman Success
+BIO 110 Cell Structure &amp; Function
+CHEM 113 General Chemistry II
+MA 112 Calculus II
+RH 131 Rhetoric &amp; Composition
+BIO 120 Comparative Anatomy &amp; Physiology
+CHEM 115 General Chemistry III
+MA 113 Calculus III
+HSSA Elective
+BIO 210 Genetics
+CHEM 251 Organic Chemistry I
+CHEM 251L Organic Chemistry I Laboratory
+PH 111 Physics I
+MA 212 Matrix Algebra and Systems of  Differential Equations
+BIO 220 Microbiology
+CHEM 252 Organic Chemistry II
+CHEM 252L Organic Chemistry II Lab
+PH 112 Physics II
+RH 330 Technical and Professional Communication
+BIO 230 Cell Biology
+CHEM 253 Organic Chemistry III
+CHEM 253L Organic Chemistry III Lab	
+PH 113 Physics III
+MA 223 Engineering Statistics
+BIO 320 Ecology
+CHEM 330 Biochemistry
+HSSA Elective
+BIO 399 Practice of Science
+BIO 330	Evolutionary Biology
+BIO 496	Senior Thesis Research I
+BIO	Elective
+HSSA Elective
+BIO 310 Plant Structure &amp; Function
+BIO 497 Senior Thesis Research II	
+PHIL H201 Bioethics
+HSSA Elective
+BIO 498	Senior Thesis Research III
+Science/Technical Elective
+Science/Technical Elective
+Free Elective
+BIO 499 Senior Thesis Research IV	
+Science/Technical Elective
+BIO Elective
+HSSA Elective
+BIO Elective	
+Science/Technical Elective
+HSSA Elective
+Free Elective

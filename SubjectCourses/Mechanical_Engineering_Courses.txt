@@ -1,0 +1,360 @@
+ME 123 Computer Programming 4R-0L-4C F,W,S
+Prerequisities: 
+Corequisites: />
+
+ME 193 Selected Topics in Design Hours as assigned. Maximum 4 credits per term. See Department
+Prerequisities: 
+Corequisites: />
+
+ME 199 Professional Experience 1R-0L-1C See Department
+Prerequisities: 
+Corequisites: />
+
+ME 293 Selected Topics in Design Hours as assigned. Maximum 4 credits per term. See Department
+Prerequisities: 
+Corequisites: />
+
+ME 301 Applications of Thermodynamics 4R-0L-4C F,W
+Prerequisities: 
+Corequisites: >ES 201*</a> or                             
+
+ME 302 Heat Transfer 4R-0L-4C S,F
+Prerequisities: 
+Corequisites: >ES 212</a> or                             
+
+ME 304 Introduction to the Design of Mechanisms 4R-0L-4C W
+Prerequisities: 
+Corequisites: >ME 123</a> or                             
+
+ME 305 Introduction to Aerospace Engineering 4R-0L-4C S
+Prerequisities: 
+Corequisites: >ES 212</a>                          <br/>
+
+ME 317 Design for Manufacturing 4R-0L-4C W
+Prerequisities: 
+Corequisites: >EM 104</a>                          <br/>
+
+ME 318 Material Processing in Manufacturing 4R-0L-4C Not Offered
+Prerequisities: 
+Corequisites: >ME 328</a>                          <br/>
+
+ME 321 Measurement Systems 3R-3L-4C W,S
+Prerequisities: 
+Corequisites: >EM 103</a>, and                             
+
+ME 323 Numerical Methods in Engineering 1R-3L-2C W,S
+Prerequisities: 
+Corequisites: >ME 123</a> or                             
+
+ME 327 Numerical Methods of Engineering Analysis  3R-3L-4C  W,S
+Prerequisities: 
+Corequisites: >ME 123</a> or                             
+
+ME 328 Materials Engineering 4R-0L-4C W
+Prerequisities: 
+Corequisites: >CHEM 111</a>                          <br/>
+
+ME 359 Vehicle System Modeling 4R-0L-4C F
+Prerequisities: 
+Corequisites: >ES 201</a>                          <br/>
+
+ME 380  Creative Design 4R-0L-4C See Department
+Prerequisities: 
+Corequisites: />
+
+ME 393 Selected Topics in Design As assigned. Maximum 4 credits per term. See Department
+Prerequisities: 
+Corequisites: />
+
+ME 397 Special Topics in Mechanical Engineering 4R-0L-4C See Department
+Prerequisities: 
+Corequisites: />
+
+ME 401 Foundations of Fluid Mechanics 3R-3L-4C F
+Prerequisities: 
+Corequisites: >ES 212</a> or                             
+
+ME 402 Advanced Heat Transfer 4R-0L-4C See Department
+Prerequisities: 
+Corequisites: >ME 302</a>                          <br/>
+
+ME 403 Kinematics of Machinery 4R-0L-4C Not Offered
+Prerequisities: 
+Corequisites: >ES 214</a>, and                             
+
+ME 404 Advanced Design of Mechanisms 4R-0L-4C F
+Prerequisities: 
+Corequisites: >ME 304</a>, and either                             
+
+ME 405 Theoretical Aerodynamics 4R-0L-4C W
+Prerequisities: 
+Corequisites: >ES 212</a>                          <br/>
+
+ME 406 Control Systems 3R-3L-4C F
+Prerequisities: 
+Corequisites: >ES 205</a>                          <br/>
+
+ME 407 Power Plants 4R-0L-4C See Department
+Prerequisities: 
+Corequisites: >ME 301</a>                          <br/>
+
+ME 408 Renewable Energy 4R-0L-4C W
+Prerequisities: 
+Corequisites: >ES 212</a>                              or equivalent
+
+ME 409 Air Conditioning 4R-0L-4C See Department
+Prerequisities: 
+Corequisites: >ES 212</a>, and                             
+
+ME 410 Internal Combustion Engines 4R-0L-4C F
+Prerequisities: 
+Corequisites: >ES 212</a> or                             
+
+ME 411 Propulsion Systems 4R-0L-4C S
+Prerequisities: 
+Corequisites: >ME 301</a>                          <br/>
+
+ME 412 Lean Manufacturing 4R-0L-4C S
+Prerequisities: 
+Corequisites: />
+
+ME 414 Materials Selection in Mechanical Design 4R-0L-4C See Department
+Prerequisities: 
+Corequisites: >EM 204</a>                          <br/>
+
+ME 415 Corrosion &amp; Engineering Materials 4R-0L-4C Not Offered
+Prerequisities: 
+Corequisites: >ME 328</a> or                             
+
+ME 416 Introduction to MEMS: Fabrication &amp; Applications 3R-3L-4C S
+Prerequisities: 
+Corequisites: />
+
+ME 417 Advanced Materials Engineering 4R-0L-4C See Department
+Prerequisities: 
+Corequisites: >ME 328</a>, and                             
+
+ME 419 Advanced MEMS: Modeling &amp; Packaging 3R-3L-4C F
+Prerequisities: 
+Corequisites: >EP 410</a>                              or equivalent
+
+ME 421 Mechanical Engineering Laboratory 0R-6L-2C F,W
+Prerequisities: 
+Corequisites: >ME 321</a>, and                             
+
+ME 422 Finite Elements for Engineering Applications 4R-0L-4C W
+Prerequisities: 
+Corequisites: >EM 204</a>                          <br/>
+
+ME 423 Fatigue 4R-0L-4C See Department
+Prerequisities: 
+Corequisites: >EM 204</a>                          <br/>
+
+ME 424 Mechanics of Composites 4R-0L-4C F
+Prerequisities: 
+Corequisites: >EM 204</a>, and                             
+
+ME 425 Aerospace Engineering Laboratory 1R-3L-2C See Department
+Prerequisities: 
+Corequisites: >ES 212</a>                          <br/>
+
+ME 426 Turbomachinery 4R-0L-4C See Department
+Prerequisities: 
+Corequisites: >ES 205</a>                          <br/>
+
+ME 427 Introduction to Computational Fluid Dynamics 3R-3L-4C S
+Prerequisities: 
+Corequisites: >ES 212</a>, and                             
+
+ME 428 Materials Research and Instrumentation 4R-0L-4C See Department
+Prerequisities: 
+Corequisites: >CHEM 111</a> and                              junior standing.
+
+ME 429 Experimental Fluid Mechanics 2R-6L-4C W
+Prerequisities: 
+Corequisites: >ES 212</a>                          <br/>
+
+ME 430 Mechatronic Systems 3R-3L-4C F,W
+Prerequisities: 
+Corequisites: >ME 323</a> or                             
+
+ME 435 Robotics Engineering 3R-3L-4C S
+Prerequisities: 
+Corequisites: >ME 430</a> or                             
+
+ME 441 Advanced Modeling and Simulation Techniques 4R-0L-4C S
+Prerequisities: 
+Corequisites: >ES 205</a>                          <br/>
+
+ME 441 Advanced Modeling and Simulation Techniques 4R-0L-4C S
+Prerequisities: 
+Corequisites: >ES 205</a>                          <br/>
+
+ME 445 Robot Dynamics and Control 4R-0L-4C W
+Prerequisities: 
+Corequisites: >ME 406</a> or                             
+
+ME 447 Visualizing Data 4R-0L-4C Not Offered
+Prerequisities: 
+Corequisites: />
+
+ME 450 Combustion 4R-0L-4C S
+Prerequisities: 
+Corequisites: >ME 301</a> or                             
+
+ME 461 Aircraft Design 4R-0L-4C F
+Prerequisities: 
+Corequisites: >ME 305</a>                          <br/>
+
+ME 462 Thermal Design 4R-0L-4C See Department
+Prerequisities: 
+Corequisites: >ES 212</a>, and                             
+
+ME 470 Capstone Design I 2R-3L-4C F,S
+Prerequisities: 
+Corequisites: >ES 205</a>, and                             
+
+ME 471 Capstone Design II 1R-4L-4C F,W
+Prerequisities: 
+Corequisites: >ME 470</a>, and                             
+
+ME 472 Capstone Design III 1R-4L-4C W,S
+Prerequisities: 
+Corequisites: >ME 471</a>                          <br/>
+
+ME 480 Machine Component Design 4R-0L-4C S,F
+Prerequisities: 
+Corequisites: >EM 204</a> or                             
+
+ME 490 Directed Research As assigned. Maximum 4 credits per term. See Department
+Prerequisities: 
+Corequisites: />
+
+ME 491 Directed Research As assigned. Maximum 4 credits per term. See Department
+Prerequisities: 
+Corequisites: />
+
+ME 493 Selected Topics in Design Hours as assigned. Maximum 4 credits per term. See Department
+Prerequisities: 
+Corequisites: />
+
+ME 497 Special Topics in Mechanical Engineering 4R-0L-4C  Arranged See Department
+Prerequisities: 
+Corequisites: />
+
+ME 501 Advanced Thermodynamics 4R-0L-4C See Department
+Prerequisities: 
+Corequisites: >ME 301</a>                              or equivalent
+
+ME 502 Topics in Heat Transfer 4R-0L-4C See Department
+Prerequisities: 
+Corequisites: >ME 302</a>                          <br/>
+
+ME 503 Viscous Fluid Flow 4R-0L-4C See Department
+Prerequisities: 
+Corequisites: >ME 401</a>                          <br/>
+
+ME 505 Modeling &amp; Simulation of Dynamic Systems 4R-0L-4C Not Offered
+Prerequisities: 
+Corequisites: >ES 205</a>, and either                             
+
+ME 506 Advanced Control Systems 4R-0L-4C See Department
+Prerequisities: 
+Corequisites: >ME 406</a>                              or equivalent or consent of instructor
+
+ME 507 Applied Nonlinear Control Systems 4R-0L-4C Not Offered
+Prerequisities: 
+Corequisites: >ME 406</a>                              or equivalent or consent of instructor
+
+ME 510 Gas Dynamics 4R-0L-4C F
+Prerequisities: 
+Corequisites: >ES 212</a>                          <br/>
+
+ME 511 Numerical Methods for Dynamic Systems Analysis 4R-0L-4C Not Offered
+Prerequisities: 
+Corequisites: >ES 205</a>, and                             
+
+ME 512 Light Weight Structures 4R-0L-4C See Department
+Prerequisities: 
+Corequisites: >MA 212</a> or                             
+
+ME 513 Environmental Noise 4R-0L-4C See Department
+Prerequisities: 
+Corequisites: />
+
+ME 514 Materials Selection in Mechanical Design  4R-0L-4C See Department
+Prerequisities: 
+Corequisites: />
+
+ME 516 Introduction to MEMS: Fabrication &amp; Applications 3R-3L-4C S
+Prerequisities: 
+Corequisites: />
+
+ME 517 Mechanics of Metal Forming 4R-0L-4C See Department
+Prerequisities: 
+Corequisites: >EM 204</a>                          <br/>
+
+ME 518 Advanced Kinematics 4R-0L-4C Not Offered
+Prerequisities: 
+Corequisites: >ME 403</a>                          <br/>
+
+ME 519 Advanced MEMS: Modeling &amp; Packaging 3R-3L-4C F
+Prerequisities: 
+Corequisites: >EP 410</a>                              or equivalent
+
+ME 520 Computer-Aided Design &amp; Manufacturing (CAD/CAM) 4R-0L-4C S
+Prerequisities: 
+Corequisites: >EM 104</a>                              and Senior class standing
+
+ME 522 Advanced Finite Element Analysis 4R-1L-4C S
+Prerequisities: 
+Corequisites: >ME 422</a>                          <br/>
+
+ME 523 Fatigue 4R-0L-4C See Department
+Prerequisities: 
+Corequisites: />
+
+ME 524 Mechanics of Composites 4R-0L-4C F
+Prerequisities: 
+Corequisites: >EM 204</a>, and                             
+
+ME 526 Turbomachinery 4R-0L-4C See Department
+Prerequisities: 
+Corequisites: >ES 205</a>                              or equivalent, or permission of instructor
+
+ME 527 Computational Fluid Dynamics 3R-3L-4C S
+Prerequisities: 
+Corequisites: >ES 212</a>, and                             
+
+ME 528 Materials Research and Instrumentation 4R-0L-4C See Department
+Prerequisities: 
+Corequisites: >CHEM 111</a> and                              graduate standing, or permission of instructor.
+
+ME 536 Computational Intelligence in Control Engineering 4R-0L-4C See Department
+Prerequisities: 
+Corequisites: >ME 406</a>                              or equivalent, or consent of instructor
+
+ME 545 Robot Dynamics and Control 4R-0L-4C W
+Prerequisities: 
+Corequisites: >ME 406</a> or                             
+
+ME 547 Visualizing Data 4R-0L-4C Not Offered
+Prerequisities: 
+Corequisites: />
+
+ME 550 Combustion  4R-0L-4C S
+Prerequisities: 
+Corequisites: >ME 301</a> or                             
+
+ME 590 Thesis Research As assigned See Department
+Prerequisities: 
+Corequisites: />
+
+ME 597 Selected Topics for Graduate Students As assigned. Maximum 4 credits per term.  See Department
+Prerequisities: 
+Corequisites: />
+
+ME 699 Professional Experience 1R-0L-1C See Department
+Prerequisities: 
+Corequisites: />
+

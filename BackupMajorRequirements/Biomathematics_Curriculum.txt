@@ -1,0 +1,50 @@
+BIO 130 Evolution and Diversity
+CHEM 111 General Chemistry
+MA 111 Calculus I
+RH 131 Rhetoric and Composition	
+RHIT 100 Foundations for Rose-Hulman Success
+PH 111 Physics I
+CHEM 113 General Chemistry II
+MA 112 Calculus II
+BIO 110 Cell Structure and Function
+CSSE 120 Intro to Software Development
+PH 112 Physics II
+MA 113 Calculus III
+HSSA
+BIO 210 Mendelian &amp;  Molecular Genetics
+MA 211 Differential Equations	
+HSSA
+PH 113 or CHEM 251 Add'l Science
+BIO 220 Microbiology
+MA 212 Matrix Algebra &amp; Systems of D.E.	
+MA 381 Intro. to Probability
+HSSA
+MA 200 Career Preparation
+BIO 230 Cell Biology
+MA 371 Linear Algebra
+HSSA
+BMTH 301 Intro to Biomath: Continuous Models
+BMTH 311 Systems Biology
+MA 382 Intro. to Statistics w/Prob
+HSSA
+Elective*
+BMTH 312 Bioinformatics
+MA 332 Intro to Computational Sci.	
+RH 330 Technical &amp; Profess. Comm.
+Elective*
+BMTH Elective
+HSSA
+Elective*
+Elective*
+BMTH 496 Capstone Experience I
+HSSA 
+Elective*
+Elective*
+BMTH 497	Capstone Experience II
+BMTH 413 Computational Biology
+Elective*
+Elective*
+BMTH 498 Capstone Experience III	
+Elective*
+Elective*
+Elective*

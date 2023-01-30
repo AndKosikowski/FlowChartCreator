@@ -1,0 +1,50 @@
+MA 111 Calculus I
+PH 111 Physics I
+RHIT 100 Foundations for Rose-Hulman Success
+CHEM 111 General Chemistry I
+EM 104 Graph Comm
+PH 112 Physics II
+MA 112 Calculus II
+CHEM 113 General Chemistry II
+RH 131 Rhetoric &amp; Composition
+PH 113 Physics III
+MA 113 Calculus III
+ME 123 Computer Applications I
+OE 172 Lasers &amp; Fiber Optics *
+EM 103 Intro Eng. Design
+PH 235 Many-Particle Physics
+PH 292 Physical Optics
+MA 211 Differential Equations
+ECE 203 DC Circuits
+ECE 204 AC Circuits 
+PH 255 Fnd. of Mod. Phys.
+MA 212 Matrix Algebra &amp; Sys of Diff Equat
+OE 280 Geometrical Optics
+OE 295 Photonic Devices &amp; Systems
+SV 150 Introduction to Microeconomics -or- SV 152 Introduction to Macroeconomics
+MA 381 Intro to Probability with Applications to Statistics
+Free Elective
+OE 392 Linear Optical Systems
+OE 395 Opto-Mech &amp; Optical Eng Lab
+PH 316 Elec &amp; Mag Fields
+HSS	Elective
+OE 393 Fiber Optics &amp; Applications or OE 360 Optical Materials
+RH 330 Tech &amp; Prof Communications
+HSS	Elective
+Free Elective
+OE 415	Opt Eng Des I
+OE 450	Laser Systems &amp; Applications
+HSS	Elective
+Engineering Elective**
+OE 416 Optical Eng Design II
+OE 480 Optical System Design
+PH 405 Semiconductor Materials &amp; Appl
+HSS	Elective
+OE 417 Optical Engineering Design III
+OE 495 Optical Metrology
+OE 393 Fiber Optics and Applications or OE 360 Optical Materials
+PH/OE/EP Elective***
+HSS	Elective
+HSS	Elective
+Engineering Elective**
+Free Elective

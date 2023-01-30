@@ -1,0 +1,37 @@
+OE 171 Photography and Holography 2R-0L-2C F
+OE 172 Lasers and Fiber Optics 2R-0L-2C S
+OE 280 Geometrical Optics 3.5R-1.5L-4C W
+OE 290 Directed Research Arranged 
+OE 295 Photonic Devices &amp; Systems 3.5R-1.5L-4C S
+OE 360 Optical Materials 4R-0L-4C W (every other year) 
+OE 392 Linear Optical Systems 4R-0L-4C F
+OE 393 Fiber Optics &amp; Applications 3.5R-1.5L-4C W (every other year)
+OE 395 Optomechanics &amp; Optical Engineering Lab 2R-6L-4C F
+OE 415 Optical Engineering Design I 2R-6L-4C S
+OE 416 Optical Engineering Design II  2R-6L-4C F
+OE 417 Optical Engineering Design III 2R-6L-4C W
+OE 431 Advanced Observational Astronomy 1R-3L-2C S
+OE 434 Non-Imaging Optics 4R-0L-4C S  (every other year)
+OE 435 Biomedical Optics 4R-0L-4C W
+OE 437 Introduction to Image Processing 3R-3L-4C W
+OE 450 Laser Systems &amp; Applications 3.5R-1.5L-4C S
+OE 470 Special Topics in Optical Engineering 2-4C 
+OE 480 Optical System Design 4R-0L-4C F
+OE 490 Directed Research 1-4C 
+OE 493 Fundamentals of Optical Fiber Communications 3.5R-1.5L-4C S (every other year)
+OE 495 Optical Metrology 3.5R-1.5L-4C W
+OE 497 Senior Thesis 1-2C F
+OE 498 Senior Thesis 1-2C W
+OE 499 Senior Thesis 1-2C S
+OE 520 Principles of Optics 2R-0L-2C F
+OE 535 Biomedical Optics 4R-0L-4C W
+OE 537 Advanced Image Processing 3R-3L-4C S
+OE 570 Special Topics in Optics 2 or 4C  F,W,S
+OE 580 Optical System Design 4R-0L-4C F
+OE 585 Electro-Optics and Applications 3R-3L-4C W
+OE 592 Fourier Optics &amp; Applications 3.5R-1.5L-4C W
+OE 593 Fundamentals of Optical Fiber Communications 3.5R-1.5L-4C S  (every other year)
+OE 594 Integrated Silicon Photonics 3.5R-1.5L-4C F
+OE 595 Optical Metrology 3.5R-1.5L-4C W
+OE 599 Thesis Research 1-4C 
+OE CPT Curricular Practical Training 1R-0L-1C 

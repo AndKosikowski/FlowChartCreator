@@ -1,0 +1,21 @@
+ENGD 100  Design and Communication Studio 6R-10L-8C  F
+ENGD 110 Circuits, Software Development, and Societal Impact Design Studio 4R-12L-6C  W
+ENGD 120 Integrating Electrical, Software, and Societal Systems 4R-12L-6C  S
+ENGD 150 Independent Design Project 1R-2L- 1R-2L-2C F
+ENGD 190  Selected Topics in Engineering Design 1-4C Arranged F,W,S
+ENGD 200 Systems Accounting and Modeling I 2R-0L-2C W
+ENGD 205 Systems Accounting and Modeling I 3R-0L-3C  W
+ENGD 210 Systems Accounting and Modeling II    4R-0L-4C S
+ENGD 215 Systems Accounting and Modeling II  3R-0L-3C S
+ENGD 240 Human-Computer Interfaces Design Studio 4R-12L-6C W
+ENGD 250 Modeling and Communicating Integrated Designs 4R- 12L-6C S
+ENGD 260 Engineering Design Studio VI: Product Design 4R-12L-6C S
+ENGD 270 Vertically Integrated Project I  1R-2L-2C W
+ENGD 271 Vertically Integrated Project II 1R-2L-2C S
+ENGD 290  Selected Topics in Engineering Design 1-4C Arranged F,W,S
+ENGD 300 Engineering Practicum I 0R-12L-4C Su
+ENGD 301 Engineering Practicum II 0R-12L-4C F
+ENGD 302 Engineering Practicum III 0R-12L-4C S
+ENGD 303 Engineering Practicum IV 0R-12L-4C Su
+ENGD 390  Selected Topics in Engineering Design 1-4C Arranged F,W,S
+ENGD 490  Selected Topics in Engineering Design 1-4C Arranged F,W,S

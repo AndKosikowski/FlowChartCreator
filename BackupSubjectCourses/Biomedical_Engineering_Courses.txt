@@ -1,0 +1,76 @@
+BE 100 Problem Solving in the Biological Sciences &amp; Engineering 3R-3L-4C S
+BE 118 Design Thinking and Communication 1R-3L-2C F
+BE 121 DC Circuits 1R-3L-2C F
+BE 122 Systems Accounting and Modeling I 3R-0L-3C W
+BE 128 Design Thinking and Realization 2R-3L-3C W
+BE 131 AC Circuits 1R-3L-2C S
+BE 132 Systems Accounting and Modeling II 3R-0L-3C S
+BE 138 Design Thinking and Human-Centered Products 2R-3L-3C S
+BE 201 Biomedical Instrumentation &amp; Measurements 3R-3L-4C W,S
+BE 202 Circuits, Sensors, and Measurements 3R-3L-4C   F
+BE 204 Mechanics of Materials 4R-0L-4C F
+BE 211 Circuits, Sensors, and Measurements    2R-3L-3C F
+BE 212 Biomedical Fluid Mechanics  3R-0L-3C W
+BE 218 Design Methodologies 2R-3L-3C F
+BE 222 Mechanics of Materials 4R-0L-4C W
+BE 228 Design Leadership &amp; Teamwork 1R-3L-2C W
+BE 232 Biomechanics 3R-0L-3C W
+BE 233 Biomaterials 3R-0L-3C W
+BE 238 Regulatory Affairs &amp; Product Design 3R-3L-4C S
+BE 310 Analysis of Physiological Systems I 3R-3L-4C W
+BE 314 Musculoskeletal Systems Physiology with Applications 4R-0L-4C F
+BE 315 Biomedical Engineering Lab I 1R-3L-2C F
+BE 317 Design for Biomedical Manufacturing 1R-0L-1C W
+BE 318 Medical Device Research &amp; Design 2R-3L-3C F
+BE 320 Analysis of Physiological Systems II 3R-3L-4C S
+BE 321 Biosignal Processing 3R-3L-4C W
+BE 324 Neural and Endocrine Systems Physiology with Applications 3R-3L-4C W
+BE 328 Capstone Design I: Designing Products for the Real World 3R-3L-4C W
+BE 331 Biomechanics 3R-0L-3C W
+BE 334 Cardiovascular, Respiratory, and Renal Systems Physiology with Applications  3R-3L-4C S
+BE 335 Biomedical Engineering Lab II 1R-3L-2C S
+BE 338 Capstone Design II: Product Design &amp; Prototyping 3R-3L-4C S
+BE 340 Biomedical Signal Processing 3R-3L-4C F
+BE 350 Biocontrol Systems 4R-0L-4C 
+BE 351 Biomedical Engineering Lab 1R-3L-2C 
+BE 352 Biomechanics Lab 0R-3L-1C 
+BE 353 Biomaterials Lab 0R-3L-1C 
+BE 361 Biomaterials   3R-0L-3C W
+BE 385 Quality Methods 4R-0L-4C S
+BE 390 Principles of Biomedical Engineering Design 1R-3L-2C S
+BE 400 Consulting Engineering Seminar 2R-0L-2C S
+BE 410 Biomedical Engineering Design I 3R-3L-4C F
+BE 418 Capstone Design III: Product Verification and Validation 3R-3L-4C F
+BE 420 Biomedical Engineering Design II  2R-6L-4C W
+BE 428 Capstone Design IV: Integrated Product Design &amp; Practice 1R-3L-2C W
+BE 430 Biomedical Engineering Design III 1R-3L-2C S
+BE 435 Biomedical Optics 3.5R-1.5L-4C 
+BE 438 Engineering Portfolio Development 1R-3L-2C S
+BE 482 Biostatistics 4R-0L-4C 
+BE 491 Special Topics in Biomedical Engineering XR-0L-XC 
+BE 492 Directed Study in Biomedical Engineering XR-XL-XC 
+BE 499 Thesis Research  0R-6L-2C F,W,S
+BE 510 Biomedical Signal &amp; Image Processing  3R-3L-4C W
+BE 511 Analysis of Physiological Systems I  3R-3L-4C W
+BE 512 Analysis of Physiological Systems II  3R-3L-4C S
+BE 516 Introduction to MEMS: Fabrication &amp; Applications 3R-3L-4C S
+BE 520 Introduction to Brain Machine Interfaces 3R-3L-4C S
+BE 531 Biomechanics II  3R-3L-4C 
+BE 534 Soft Tissue Mechanics 3 R-3L-4C 
+BE 535 Biomedical Optics 4R-0L-4C W
+BE 539 Multiscale Biomechanics 3R-3L-4C 
+BE 541 Medical Imaging Systems 4R-0L-4C 
+BE 543 Neuroprosthetics 3R-3L-4C 
+BE 545 Orthopaedic Biomechanics 4R-0L-4C 
+BE 550 Research Methods in Biomechanics 3R-3L-4C W
+BE 555 Electrophysiology 3R-3L-4C 
+BE 560 Tissue-Biomaterial Interactions 4R-0L-4C 
+BE 565 Experimental Methods in Tissue-Biomaterial Interactions 3R-3L-4C S
+BE 570 Introduction to Tissue Engineering 4R-0L-4C 
+BE 590 Thesis Research Credits as assigned F,W,S
+BE 597 Selected Topics Credits as assigned F,W,S
+BE 621 Microbiology and Immunology 6C 
+BE 623 Gross Anatomy 8C 
+BE 624 Biochemistry 6C 
+BE 625 Physiology 8c 
+BE CPT Curricular Practical Training 1R-0L-1C 

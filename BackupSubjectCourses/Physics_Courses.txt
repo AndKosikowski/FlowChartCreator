@@ -1,0 +1,48 @@
+PH 090 College Preparatory Physics 4R-0L-4C 
+PH 111 Physics I 3.5R-1.5L-4C F,W
+PH 112 Physics II 3.5R-1.5L-4C W,S,F
+PH 113 Physics III 3.5R-1.5L-4C S,F,W
+PH 200 Career Preparation 1R-0L-1C W,S
+PH 215 Introduction to CHAOS 2R-0L-2C W
+PH 231 Observational Astronomy 1R-3L-2C F
+PH 235 Many-Particle Physics 3.5R-1.5L-4C F
+PH 241 Physics of Stars 4R-0L-4C W
+PH 250 Planets and Galaxies 4R-0L-4C S
+PH 255 Foundations of Modern Physics 3.5R-1.5L-4C W
+PH 265 Fundamentals of Nuclear Physics &amp; Radiation 3R-3L-4C S
+PH 270 Special Topics in Physics 1-4C 
+PH 290 Directed Research 1-4C 
+PH 292 Physical Optics 3.5R-1.5L-4C F
+PH 302 Biophysics 4R-0L-4C F
+PH 310 Introduction to Special Relativity 2R-0L-2C F
+PH 314 Theoretical Mechanics I 4R-0L-4C S
+PH 315 Theoretical Mechanics II 4R-0L-4C W
+PH 316 Electric &amp; Magnetic Fields 4R-0L-4C F
+PH 317 Electromagnetism 4R-0L-4C W
+PH 322 Celestial Mechanics 4R-0L-4C S
+PH 325 Advanced Physics Laboratory I 2R-6L-4C S
+PH 327 Thermodynamics &amp; Statistical Mechanics 4R-0L-4C S
+PH 401 Introduction to Quantum Mechanics 4R-0L-4C W
+PH 402 Introduction to Atomic Physics 4R-0L-4C S (odd years)
+PH 404 Acoustics 4R-0L-4C W (odd years)
+PH 405 Semiconductor Materials &amp; Applications 3R-3L-4C F
+PH 407 Solid State Physics 4R-0L-4C S (even years)
+PH 410 General Relativity 4R-0L-4C W (odd years)
+PH 425 Advanced Physics Laboratory II 0R-8L-4C W
+PH 431 Advanced Observational Astronomy 1R-3L-2C S
+PH 440 X-rays and Crystalline Materials 2R-6L-4C S (even years)
+PH 460 Directed Study 1-4C 
+PH 470 Special Topics in Physics 2-4C 
+PH 480 Seminar  0C 
+PH 490 Directed Research 1-2 C 
+PH 496 Senior Thesis 2-4C 
+PH 497 Senior Thesis 2-4C F
+PH 498 Senior Thesis  2-4C W
+PH 499 Physics Ethics and Communication   1R-0L-1C  S
+PH 505 Semiconductor Materials &amp; Devices I 3R-3L-4C F
+PH 512 Methods of Mathematical Physics 4R-0L-4C 
+PH 514 Quantum Mechanics 4R-0L-4C 
+PH 530 Advanced Acoustics 4R-0L-4C 
+PH 538 Introduction to Neural Networks 3R-3L-4C 
+PH 540 Computer Physics 3R-3L-4C 
+PH CPT Curricular Practical Training 1R-0L-1C 
